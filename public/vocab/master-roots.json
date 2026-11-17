@@ -1,0 +1,8360 @@
+[
+  {
+    "id": "r_hom",
+    "morpheme": "hom",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "man, human",
+    "meaningZh": "人、人類",
+    "cognateWordIds": [
+      "w_homicide"
+    ]
+  },
+  {
+    "id": "s_less",
+    "morpheme": "-less",
+    "type": "suffix",
+    "origin": "Middle English",
+    "meaning": "without",
+    "meaningZh": "無、沒有、缺乏",
+    "cognateWordIds": [
+      "w_breathless",
+      "w_careless",
+      "w_cordless",
+      "w_doubtless",
+      "w_endless",
+      "w_helpless",
+      "w_homeless",
+      "w_hopeless",
+      "w_pointless",
+      "w_regardless",
+      "w_restless",
+      "w_stainless",
+      "w_tasteless",
+      "w_useless",
+      "w_worthless"
+    ]
+  },
+  {
+    "id": "p_syl",
+    "morpheme": "syl-",
+    "type": "prefix",
+    "origin": "Greek",
+    "meaning": "with, together with",
+    "meaningZh": "共同、一起、同時",
+    "cognateWordIds": []
+  },
+  {
+    "id": "s_en2",
+    "morpheme": "-en2",
+    "type": "suffix",
+    "origin": "Old English",
+    "meaning": "made of",
+    "meaningZh": "made of",
+    "cognateWordIds": [
+      "w_golden",
+      "w_wooden",
+      "w_woolen"
+    ]
+  },
+  {
+    "id": "r_pterpteropterygpteryx",
+    "morpheme": "pterpteropterygpteryx",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "wing, fin",
+    "meaningZh": "wing, fin",
+    "cognateWordIds": [
+      "w_helicopter"
+    ]
+  },
+  {
+    "id": "r_strictstringstrain",
+    "morpheme": "strictstringstrain",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "bind, tighten",
+    "meaningZh": "十、十倍",
+    "cognateWordIds": [
+      "w_restrict",
+      "w_restriction",
+      "w_strict"
+    ]
+  },
+  {
+    "id": "r_helichelico",
+    "morpheme": "helichelico",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "spiral, circular",
+    "meaningZh": "spiral, circular",
+    "cognateWordIds": [
+      "w_helicopter"
+    ]
+  },
+  {
+    "id": "r_son",
+    "morpheme": "son",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "sound",
+    "meaningZh": "sound",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_chlorchloro",
+    "morpheme": "chlorchloro",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "light green; containing chlorine",
+    "meaningZh": "光線、照亮、明亮",
+    "cognateWordIds": [
+      "w_chlorophyll",
+      "w_chlorosis"
+    ]
+  },
+  {
+    "id": "r_tomtometomystomy",
+    "morpheme": "tom-tome-tomy-stomy",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "to cut",
+    "meaningZh": "to cut",
+    "cognateWordIds": [
+      "w_atom"
+    ]
+  },
+  {
+    "id": "r_cedcesceedcedecess",
+    "morpheme": "cedces-ceed-cede-cess",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "to go; to go back or yield",
+    "meaningZh": "to go; to go back or yield",
+    "cognateWordIds": [
+      "w_access",
+      "w_accessible",
+      "w_exceed",
+      "w_excess",
+      "w_precede",
+      "w_procedure",
+      "w_proceed",
+      "w_process",
+      "w_recession",
+      "w_succeed",
+      "w_success"
+    ]
+  },
+  {
+    "id": "s_ule",
+    "morpheme": "-ule",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "small",
+    "meaningZh": "微小、細微",
+    "cognateWordIds": [
+      "w_capsule",
+      "w_molecule"
+    ]
+  },
+  {
+    "id": "s_ician",
+    "morpheme": "-ician",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "practictioner of or expert in",
+    "meaningZh": "practictioner of or expert in",
+    "cognateWordIds": [
+      "w_mathematician",
+      "w_physician",
+      "w_politician",
+      "w_technician"
+    ]
+  },
+  {
+    "id": "r_hepathepato",
+    "morpheme": "hepathepato",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "liver",
+    "meaningZh": "liver",
+    "cognateWordIds": []
+  },
+  {
+    "id": "p_syn",
+    "morpheme": "syn-",
+    "type": "prefix",
+    "origin": "Greek",
+    "meaning": "with, together with",
+    "meaningZh": "共同、一起、同時",
+    "cognateWordIds": [
+      "w_photosynthesis",
+      "w_synonym",
+      "w_synthesize",
+      "w_synthetic"
+    ]
+  },
+  {
+    "id": "s_acious",
+    "morpheme": "-acious",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "full of, characterized by",
+    "meaningZh": "full of, characterized by",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_chryschryso",
+    "morpheme": "chryschryso",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "gold, yellow",
+    "meaningZh": "gold, yellow",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_scopscopescopy",
+    "morpheme": "scop-scope-scopy",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "to view, to observe",
+    "meaningZh": "to view, to observe",
+    "cognateWordIds": [
+      "w_microscope",
+      "w_microscopic",
+      "w_telescope"
+    ]
+  },
+  {
+    "id": "r_cratcracy",
+    "morpheme": "crat-cracy",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "government, rule",
+    "meaningZh": "government, rule",
+    "cognateWordIds": [
+      "w_democracy",
+      "w_democrat",
+      "w_democratic"
+    ]
+  },
+  {
+    "id": "r_fix",
+    "morpheme": "fix",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "fasten, attach",
+    "meaningZh": "十、十倍",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_neo",
+    "morpheme": "neo",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "new, recent",
+    "meaningZh": "new, recent",
+    "cognateWordIds": [
+      "w_neolithic",
+      "w_neon"
+    ]
+  },
+  {
+    "id": "s_ion",
+    "morpheme": "-ion",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "the act, process, or result of",
+    "meaningZh": "the act, process, or result of",
+    "cognateWordIds": [
+      "w_action",
+      "w_addiction",
+      "w_addition",
+      "w_admission",
+      "w_affection",
+      "w_aggression",
+      "w_ambition",
+      "w_attention",
+      "w_commission",
+      "w_conclusion",
+      "w_condition",
+      "w_confusion",
+      "w_construction",
+      "w_direction",
+      "w_dictionary",
+      "w_expedition",
+      "w_illusion",
+      "w_incision",
+      "w_interaction",
+      "w_mission",
+      "w_nation",
+      "w_passion",
+      "w_passionate",
+      "w_permission",
+      "w_prediction",
+      "w_prescription",
+      "w_question",
+      "w_reaction",
+      "w_reflection",
+      "w_revolution",
+      "w_satisfaction",
+      "w_section",
+      "w_session",
+      "w_solution",
+      "w_television",
+      "w_transaction"
+    ]
+  },
+  {
+    "id": "r_mnemnesmnest",
+    "morpheme": "mnemnesmnest",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "memory",
+    "meaningZh": "memory",
+    "cognateWordIds": [
+      "w_amnesia"
+    ]
+  },
+  {
+    "id": "r_cryptcryptocryph",
+    "morpheme": "cryptcryptocryph",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "secret, hidden",
+    "meaningZh": "secret, hidden",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_esthesaesthesesthetaesthet",
+    "morpheme": "esthesaesthesesthetaesthet",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "feeling, sensation, sense perception",
+    "meaningZh": "feeling, sensation, sense perception",
+    "cognateWordIds": [
+      "w_aesthetic"
+    ]
+  },
+  {
+    "id": "r_gram",
+    "morpheme": "gram",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "write",
+    "meaningZh": "write",
+    "cognateWordIds": [
+      "w_diagram",
+      "w_grammar",
+      "w_hologram",
+      "w_program",
+      "w_telegram"
+    ]
+  },
+  {
+    "id": "r_tetrtetra",
+    "morpheme": "tetrtetra",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "four",
+    "meaningZh": "四、四重",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_asper",
+    "morpheme": "asper",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "rough",
+    "meaningZh": "rough",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_ped1pedipede",
+    "morpheme": "ped1pedi-pede",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "foot, feet",
+    "meaningZh": "腳、足、足跡",
+    "cognateWordIds": [
+      "w_expedition",
+      "w_pedestrian"
+    ]
+  },
+  {
+    "id": "p_over",
+    "morpheme": "over-",
+    "type": "prefix",
+    "origin": "Old English",
+    "meaning": "excessively, too much; over, on top, above",
+    "meaningZh": "excessively, too much; over, on top, above",
+    "cognateWordIds": [
+      "w_overcast",
+      "w_overcoat",
+      "w_overcome",
+      "w_overflow",
+      "w_overhead",
+      "w_overlap",
+      "w_overload",
+      "w_overlook",
+      "w_overtake",
+      "w_overwhelm"
+    ]
+  },
+  {
+    "id": "p_di2diplo",
+    "morpheme": "di-2diplo-",
+    "type": "prefix",
+    "origin": "Greek",
+    "meaning": "two, double",
+    "meaningZh": "雙重、二者、成對",
+    "cognateWordIds": [
+      "w_dilemma",
+      "w_dioxide",
+      "w_diploma"
+    ]
+  },
+  {
+    "id": "r_centrcentricentro",
+    "morpheme": "centrcentricentro",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "center",
+    "meaningZh": "center",
+    "cognateWordIds": [
+      "w_center",
+      "w_central",
+      "w_centralize",
+      "w_concentrate",
+      "w_eccentric"
+    ]
+  },
+  {
+    "id": "s_al1",
+    "morpheme": "-al1",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "act or result of",
+    "meaningZh": "act or result of",
+    "cognateWordIds": [
+      "w_approval",
+      "w_arrival",
+      "w_dispersal",
+      "w_disposal",
+      "w_proposal",
+      "w_referral",
+      "w_refusal",
+      "w_removal",
+      "w_renewal",
+      "w_survival"
+    ]
+  },
+  {
+    "id": "r_graphgraphy",
+    "morpheme": "graph-graphy",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "writing, drawing, recording",
+    "meaningZh": "writing, drawing, recording",
+    "cognateWordIds": [
+      "w_autograph",
+      "w_biography",
+      "w_choreography",
+      "w_geography",
+      "w_graph",
+      "w_graphic",
+      "w_paragraph",
+      "w_phonograph",
+      "w_photograph",
+      "w_photography",
+      "w_telegraph"
+    ]
+  },
+  {
+    "id": "r_lyslytlyze",
+    "morpheme": "lyslyt-lyze",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "break down, disintegrate",
+    "meaningZh": "break down, disintegrate",
+    "cognateWordIds": [
+      "w_analysis",
+      "w_analyze"
+    ]
+  },
+  {
+    "id": "r_marmari",
+    "morpheme": "marmari",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "sea",
+    "meaningZh": "sea",
+    "cognateWordIds": [
+      "w_marine",
+      "w_maritime"
+    ]
+  },
+  {
+    "id": "p_pro2",
+    "morpheme": "pro-2",
+    "type": "prefix",
+    "origin": "Greek",
+    "meaning": "before",
+    "meaningZh": "before",
+    "cognateWordIds": [
+      "w_program",
+      "w_prologue"
+    ]
+  },
+  {
+    "id": "r_caustcaut",
+    "morpheme": "caustcaut",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "burn",
+    "meaningZh": "burn",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_opt2",
+    "morpheme": "opt2",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "choose",
+    "meaningZh": "choose",
+    "cognateWordIds": [
+      "w_adopt",
+      "w_option"
+    ]
+  },
+  {
+    "id": "p_meta",
+    "morpheme": "meta-",
+    "type": "prefix",
+    "origin": "Greek",
+    "meaning": "change, between, after, beyond",
+    "meaningZh": "change, between, after, beyond",
+    "cognateWordIds": [
+      "w_metabolism"
+    ]
+  },
+  {
+    "id": "r_opopsoptoptoophthalmophthalmoopiaopsy",
+    "morpheme": "opopsoptoptoophthalmophthalmo-opia-opsy",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "eye, visual condition, vision, sight, inspection",
+    "meaningZh": "eye, visual condition, vision, sight, inspection",
+    "cognateWordIds": [
+      "w_optical"
+    ]
+  },
+  {
+    "id": "r_electr",
+    "morpheme": "electr",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "electric",
+    "meaningZh": "electric",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_simsemb",
+    "morpheme": "simsemb",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "like, similar",
+    "meaningZh": "like, similar",
+    "cognateWordIds": [
+      "w_resemble",
+      "w_similar",
+      "w_simulate"
+    ]
+  },
+  {
+    "id": "r_ecectecto",
+    "morpheme": "ecectecto",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "out, outside",
+    "meaningZh": "out, outside",
+    "cognateWordIds": [
+      "w_eccentric"
+    ]
+  },
+  {
+    "id": "r_dom2",
+    "morpheme": "dom2",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "house",
+    "meaningZh": "house",
+    "cognateWordIds": [
+      "w_domestic"
+    ]
+  },
+  {
+    "id": "p_be",
+    "morpheme": "be-",
+    "type": "prefix",
+    "origin": "Old English",
+    "meaning": "to cover or surround with; to act on or change another.",
+    "meaningZh": "to cover or surround with; to act on or change another.",
+    "cognateWordIds": [
+      "w_belong",
+      "w_beloved",
+      "w_betray"
+    ]
+  },
+  {
+    "id": "r_novemnoven",
+    "morpheme": "novemnoven",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "ninth",
+    "meaningZh": "ninth",
+    "cognateWordIds": [
+      "w_november"
+    ]
+  },
+  {
+    "id": "r_form",
+    "morpheme": "form",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "shape, form",
+    "meaningZh": "shape, form",
+    "cognateWordIds": [
+      "w_conform",
+      "w_cuneiform",
+      "w_deform",
+      "w_form",
+      "w_formal",
+      "w_format",
+      "w_formation",
+      "w_formula",
+      "w_formulate",
+      "w_inform",
+      "w_informal",
+      "w_informant",
+      "w_information",
+      "w_reform",
+      "w_reformer",
+      "w_transform",
+      "w_transformation",
+      "w_uniform"
+    ]
+  },
+  {
+    "id": "r_deb",
+    "morpheme": "deb",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "owe",
+    "meaningZh": "owe",
+    "cognateWordIds": [
+      "w_debt"
+    ]
+  },
+  {
+    "id": "r_tendtenttens",
+    "morpheme": "tendtenttens",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "stretch",
+    "meaningZh": "stretch",
+    "cognateWordIds": [
+      "w_attend",
+      "w_attendance",
+      "w_attention",
+      "w_extend",
+      "w_extent",
+      "w_intend",
+      "w_intent",
+      "w_intention",
+      "w_tendency",
+      "w_tense",
+      "w_tension",
+      "w_tent"
+    ]
+  },
+  {
+    "id": "r_evaev",
+    "morpheme": "evaev",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "age, era",
+    "meaningZh": "age, era",
+    "cognateWordIds": [
+      "w_medieval"
+    ]
+  },
+  {
+    "id": "r_dentdenti",
+    "morpheme": "dentdenti",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "tooth, teeth",
+    "meaningZh": "tooth, teeth",
+    "cognateWordIds": [
+      "w_dentist"
+    ]
+  },
+  {
+    "id": "p_a1an1",
+    "morpheme": "a-1an-1",
+    "type": "prefix",
+    "origin": "Greek",
+    "meaning": "not, without",
+    "meaningZh": "無、沒有、缺乏",
+    "cognateWordIds": [
+      "w_amnesia",
+      "w_anecdote",
+      "w_anomaly",
+      "w_anonymous",
+      "w_apathy",
+      "w_atom"
+    ]
+  },
+  {
+    "id": "r_vincvictvanq",
+    "morpheme": "vincvictvanq",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "conquer",
+    "meaningZh": "conquer",
+    "cognateWordIds": [
+      "w_convict",
+      "w_convince",
+      "w_victim",
+      "w_victory"
+    ]
+  },
+  {
+    "id": "r_cosmcosmo",
+    "morpheme": "cosmcosmo",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "universe, world, order",
+    "meaningZh": "universe, world, order",
+    "cognateWordIds": [
+      "w_cosmic",
+      "w_cosmos"
+    ]
+  },
+  {
+    "id": "p_sur",
+    "morpheme": "sur-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "under, below",
+    "meaningZh": "在...下方、次級、隱蔽",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_florflori",
+    "morpheme": "florflori",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "flower",
+    "meaningZh": "flower",
+    "cognateWordIds": [
+      "w_flora",
+      "w_florida"
+    ]
+  },
+  {
+    "id": "r_fractfrag",
+    "morpheme": "fractfrag",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "break",
+    "meaningZh": "break",
+    "cognateWordIds": [
+      "w_fraction",
+      "w_fracture",
+      "w_fragile",
+      "w_fragment"
+    ]
+  },
+  {
+    "id": "r_vag",
+    "morpheme": "vag",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "wander",
+    "meaningZh": "wander",
+    "cognateWordIds": [
+      "w_vague"
+    ]
+  },
+  {
+    "id": "s_oid",
+    "morpheme": "-oid",
+    "type": "suffix",
+    "origin": "Greek",
+    "meaning": "resembling, like",
+    "meaningZh": "resembling, like",
+    "cognateWordIds": [
+      "w_android",
+      "w_asteroid"
+    ]
+  },
+  {
+    "id": "r_pelpuls",
+    "morpheme": "pelpuls",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "drive, push",
+    "meaningZh": "drive, push",
+    "cognateWordIds": [
+      "w_compel",
+      "w_compulsory"
+    ]
+  },
+  {
+    "id": "r_podpode",
+    "morpheme": "podpode",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "foot",
+    "meaningZh": "腳、足、足跡",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_phonphonophonephony",
+    "morpheme": "phonphono-phone-phony",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "sound, voice",
+    "meaningZh": "sound, voice",
+    "cognateWordIds": [
+      "w_phone",
+      "w_phonograph",
+      "w_symphony",
+      "w_telephone"
+    ]
+  },
+  {
+    "id": "r_sophsophy",
+    "morpheme": "soph-sophy",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "wise, wisdom",
+    "meaningZh": "wise, wisdom",
+    "cognateWordIds": [
+      "w_philosopher",
+      "w_philosophy",
+      "w_sophisticated"
+    ]
+  },
+  {
+    "id": "p_o",
+    "morpheme": "o-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "towards; against; away",
+    "meaningZh": "towards; against; away",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_duduo",
+    "morpheme": "duduo",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "two",
+    "meaningZh": "two",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_sect",
+    "morpheme": "sect",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "to cut",
+    "meaningZh": "to cut",
+    "cognateWordIds": [
+      "w_section",
+      "w_sector"
+    ]
+  },
+  {
+    "id": "p_intro",
+    "morpheme": "intro-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "inward, inside",
+    "meaningZh": "inward, inside",
+    "cognateWordIds": [
+      "w_introduce"
+    ]
+  },
+  {
+    "id": "r_pseudpseudo",
+    "morpheme": "pseudpseudo",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "false",
+    "meaningZh": "false",
+    "cognateWordIds": [
+      "w_pseudonym"
+    ]
+  },
+  {
+    "id": "r_myri",
+    "morpheme": "myri",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "a large number",
+    "meaningZh": "a large number",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_cryo",
+    "morpheme": "cryo",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "cold",
+    "meaningZh": "cold",
+    "cognateWordIds": []
+  },
+  {
+    "id": "p_eu",
+    "morpheme": "eu",
+    "type": "prefix",
+    "origin": "Greek",
+    "meaning": "good, well",
+    "meaningZh": "良好、優質、有利",
+    "cognateWordIds": []
+  },
+  {
+    "id": "p_de",
+    "morpheme": "de-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "from; away from; down from; reverse, negate.",
+    "meaningZh": "from; away from; down from; reverse, negate.",
+    "cognateWordIds": [
+      "w_debate",
+      "w_decay",
+      "w_deceive",
+      "w_decide",
+      "w_decision",
+      "w_decline",
+      "w_defer",
+      "w_deform",
+      "w_delete",
+      "w_depend",
+      "w_deplete",
+      "w_deprive",
+      "w_descend",
+      "w_describe",
+      "w_description",
+      "w_design",
+      "w_designate",
+      "w_despise",
+      "w_detect",
+      "w_independence"
+    ]
+  },
+  {
+    "id": "r_zozoo",
+    "morpheme": "zozoo",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "animal, life",
+    "meaningZh": "生命、活體、生存",
+    "cognateWordIds": [
+      "w_cenozoic",
+      "w_mesozoic",
+      "w_proterozoic",
+      "w_zoo"
+    ]
+  },
+  {
+    "id": "p_para",
+    "morpheme": "para-",
+    "type": "prefix",
+    "origin": "Greek",
+    "meaning": "beside, alongside",
+    "meaningZh": "beside, alongside",
+    "cognateWordIds": [
+      "w_paradox",
+      "w_paragraph",
+      "w_parallel",
+      "w_parasite"
+    ]
+  },
+  {
+    "id": "s_y1ey",
+    "morpheme": "-y1-ey",
+    "type": "suffix",
+    "origin": "Old English",
+    "meaning": "characterized by; full of; tending to",
+    "meaningZh": "十、十倍",
+    "cognateWordIds": [
+      "w_dirty",
+      "w_foggy",
+      "w_funny",
+      "w_guilty",
+      "w_healthy",
+      "w_lucky",
+      "w_messy",
+      "w_rainy",
+      "w_salty",
+      "w_sandy",
+      "w_sleepy",
+      "w_sunny"
+    ]
+  },
+  {
+    "id": "r_homohomeoomal",
+    "morpheme": "homohomeoomal",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "one, same",
+    "meaningZh": "one, same",
+    "cognateWordIds": [
+      "w_anomaly",
+      "w_homogeneous"
+    ]
+  },
+  {
+    "id": "r_cogncognitgnor",
+    "morpheme": "cogncognitgnor",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "know, knowledge",
+    "meaningZh": "知曉、知識、認識",
+    "cognateWordIds": [
+      "w_cognitive",
+      "w_ignorance",
+      "w_ignore",
+      "w_recognition",
+      "w_recognize"
+    ]
+  },
+  {
+    "id": "r_solvsolusolut",
+    "morpheme": "solvsolusolut",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "loosen",
+    "meaningZh": "loosen",
+    "cognateWordIds": [
+      "w_absolute",
+      "w_dissolve",
+      "w_soluble",
+      "w_solution",
+      "w_solve"
+    ]
+  },
+  {
+    "id": "r_fort2",
+    "morpheme": "fort2",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "strong",
+    "meaningZh": "strong",
+    "cognateWordIds": [
+      "w_effort",
+      "w_fortitude",
+      "w_fortress"
+    ]
+  },
+  {
+    "id": "r_vidvisvise",
+    "morpheme": "vidvis-vise",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "see",
+    "meaningZh": "see",
+    "cognateWordIds": [
+      "w_envision",
+      "w_evidence",
+      "w_evident",
+      "w_invisible",
+      "w_provide",
+      "w_revise",
+      "w_television",
+      "w_video",
+      "w_visible",
+      "w_vision",
+      "w_visual"
+    ]
+  },
+  {
+    "id": "r_doxdogma",
+    "morpheme": "doxdogma",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "opinion, belief",
+    "meaningZh": "opinion, belief",
+    "cognateWordIds": [
+      "w_paradox"
+    ]
+  },
+  {
+    "id": "r_rub",
+    "morpheme": "rub",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "red",
+    "meaningZh": "red",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_rhinrhino",
+    "morpheme": "rhinrhino",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "nose",
+    "meaningZh": "nose",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_benbenebon",
+    "morpheme": "benbenebon",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "good, well",
+    "meaningZh": "良好、優質、有利",
+    "cognateWordIds": [
+      "w_beneficial",
+      "w_benefit",
+      "w_bonus"
+    ]
+  },
+  {
+    "id": "r_leukleukoleucleuco",
+    "morpheme": "leukleukoleucleuco",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "white, colorless",
+    "meaningZh": "white, colorless",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_scribscript",
+    "morpheme": "scribscript",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "to write",
+    "meaningZh": "to write",
+    "cognateWordIds": [
+      "w_describe",
+      "w_description",
+      "w_descriptive",
+      "w_inscription",
+      "w_manuscript",
+      "w_prescribe",
+      "w_prescription",
+      "w_script",
+      "w_subscribe",
+      "w_transcript"
+    ]
+  },
+  {
+    "id": "r_verb",
+    "morpheme": "verb",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "word",
+    "meaningZh": "word",
+    "cognateWordIds": [
+      "w_adverb",
+      "w_verb",
+      "w_verbal"
+    ]
+  },
+  {
+    "id": "r_xenxeno",
+    "morpheme": "xenxeno",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "foreign",
+    "meaningZh": "foreign",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_ornithornitho",
+    "morpheme": "ornithornitho",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "bird",
+    "meaningZh": "bird",
+    "cognateWordIds": []
+  },
+  {
+    "id": "p_hyper",
+    "morpheme": "hyper-",
+    "type": "prefix",
+    "origin": "Greek",
+    "meaning": "over, beyond, excessive",
+    "meaningZh": "over, beyond, excessive",
+    "cognateWordIds": [
+      "w_hyper"
+    ]
+  },
+  {
+    "id": "p_un1",
+    "morpheme": "un-1",
+    "type": "prefix",
+    "origin": "Old English",
+    "meaning": "not",
+    "meaningZh": "not",
+    "cognateWordIds": [
+      "w_unable",
+      "w_unbelievable",
+      "w_uncertain",
+      "w_uncomfortable",
+      "w_uncommon",
+      "w_unconscious",
+      "w_uneven",
+      "w_unfair",
+      "w_unfamiliar",
+      "w_unfortunate",
+      "w_unfriendly",
+      "w_unhappy",
+      "w_unhealthy",
+      "w_unimportant",
+      "w_unknown",
+      "w_unlike",
+      "w_unnecessary",
+      "w_unpleasant",
+      "w_unsafe",
+      "w_unstable",
+      "w_untrue",
+      "w_unusual"
+    ]
+  },
+  {
+    "id": "s_ite1",
+    "morpheme": "-ite1",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "in a state or condition (produced by the action denoted by the verb base)",
+    "meaningZh": "in a state or condition (produced by the action denoted by the verb base)",
+    "cognateWordIds": [
+      "w_definite",
+      "w_elite",
+      "w_favorite",
+      "w_impolite",
+      "w_indefinite",
+      "w_infinite",
+      "w_opposite",
+      "w_polite"
+    ]
+  },
+  {
+    "id": "r_otoot",
+    "morpheme": "otoot",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "ear",
+    "meaningZh": "ear",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_rasradraz",
+    "morpheme": "rasradraz",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "scrape",
+    "meaningZh": "scrape",
+    "cognateWordIds": [
+      "w_eraser",
+      "w_razor"
+    ]
+  },
+  {
+    "id": "r_surgsurr",
+    "morpheme": "surgsurr",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "rise",
+    "meaningZh": "rise",
+    "cognateWordIds": [
+      "w_surge"
+    ]
+  },
+  {
+    "id": "s_ate1",
+    "morpheme": "-ate1",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "to make, cause, do",
+    "meaningZh": "to make, cause, do",
+    "cognateWordIds": [
+      "w_accelerate",
+      "w_accommodate",
+      "w_accumulate",
+      "w_adequate",
+      "w_administrative",
+      "w_advocate",
+      "w_aggravate",
+      "w_allocate",
+      "w_alternate",
+      "w_animate",
+      "w_associate",
+      "w_circulate",
+      "w_commemorate",
+      "w_complicate",
+      "w_concentrate",
+      "w_cooperate",
+      "w_coordinate",
+      "w_dedicate",
+      "w_deliberate",
+      "w_dictate",
+      "w_dislocate",
+      "w_dominate",
+      "w_donate",
+      "w_educate",
+      "w_elaborate",
+      "w_elucidate",
+      "w_evacuate",
+      "w_fluctuate",
+      "w_formulate",
+      "w_generate",
+      "w_graduate",
+      "w_illuminate",
+      "w_illustrate",
+      "w_incorporate",
+      "w_innovate",
+      "w_irrigate",
+      "w_liberate",
+      "w_locate",
+      "w_motivate",
+      "w_navigate",
+      "w_nominate",
+      "w_operate",
+      "w_originate",
+      "w_participate",
+      "w_populate",
+      "w_regulate",
+      "w_rotate",
+      "w_simulate",
+      "w_terminate",
+      "w_vacate"
+    ]
+  },
+  {
+    "id": "r_loc",
+    "morpheme": "loc",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "place",
+    "meaningZh": "place",
+    "cognateWordIds": [
+      "w_allocate",
+      "w_dislocate",
+      "w_local",
+      "w_localize",
+      "w_locate",
+      "w_location"
+    ]
+  },
+  {
+    "id": "p_sum",
+    "morpheme": "sum-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "under, below",
+    "meaningZh": "在...下方、次級、隱蔽",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_helihelio",
+    "morpheme": "helihelio",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "sun",
+    "meaningZh": "sun",
+    "cognateWordIds": []
+  },
+  {
+    "id": "p_as",
+    "morpheme": "as-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "to, toward",
+    "meaningZh": "to, toward",
+    "cognateWordIds": [
+      "w_assert",
+      "w_assign",
+      "w_assist",
+      "w_assume",
+      "w_assumption"
+    ]
+  },
+  {
+    "id": "r_philphilophiliaphile",
+    "morpheme": "philphilo-philia-phile",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "love, fondness",
+    "meaningZh": "love, fondness",
+    "cognateWordIds": [
+      "w_philosopher",
+      "w_philosophy"
+    ]
+  },
+  {
+    "id": "r_peptpeps",
+    "morpheme": "peptpeps",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "digestion",
+    "meaningZh": "digestion",
+    "cognateWordIds": []
+  },
+  {
+    "id": "p_macro",
+    "morpheme": "macro-",
+    "type": "prefix",
+    "origin": "Greek",
+    "meaning": "large, long",
+    "meaningZh": "large, long",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_carp",
+    "morpheme": "carp",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "fruit",
+    "meaningZh": "fruit",
+    "cognateWordIds": []
+  },
+  {
+    "id": "p_retro",
+    "morpheme": "retro-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "back, backward, behind",
+    "meaningZh": "back, backward, behind",
+    "cognateWordIds": [
+      "w_retrospect"
+    ]
+  },
+  {
+    "id": "r_lustr",
+    "morpheme": "lustr",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "shine",
+    "meaningZh": "shine",
+    "cognateWordIds": [
+      "w_illustrate",
+      "w_illustration"
+    ]
+  },
+  {
+    "id": "s_izeise",
+    "morpheme": "-ize-ise",
+    "type": "suffix",
+    "origin": "Greek",
+    "meaning": "to turn into or cause to be",
+    "meaningZh": "to turn into or cause to be",
+    "cognateWordIds": [
+      "w_advertise",
+      "w_centralize",
+      "w_civilize",
+      "w_fantasize",
+      "w_fossilize",
+      "w_recognize",
+      "w_stabilize"
+    ]
+  },
+  {
+    "id": "r_liber1",
+    "morpheme": "liber1",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "free",
+    "meaningZh": "free",
+    "cognateWordIds": [
+      "w_liberal",
+      "w_liberate",
+      "w_liberty"
+    ]
+  },
+  {
+    "id": "p_epiephep",
+    "morpheme": "epi-eph-ep-",
+    "type": "prefix",
+    "origin": "Greek",
+    "meaning": "on, upon, over; beyond, after, outside",
+    "meaningZh": "on, upon, over; beyond, after, outside",
+    "cognateWordIds": [
+      "w_epilogue",
+      "w_episode",
+      "w_epoch"
+    ]
+  },
+  {
+    "id": "r_phagphagephagy",
+    "morpheme": "phag-phage-phagy",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "eat",
+    "meaningZh": "eat",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_manmanimanumain",
+    "morpheme": "manmanimanumain",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "hand",
+    "meaningZh": "手、操作、手法",
+    "cognateWordIds": [
+      "w_maintain",
+      "w_maintenance",
+      "w_manage",
+      "w_manager",
+      "w_manifest",
+      "w_manipulate",
+      "w_manufacture",
+      "w_manuscript"
+    ]
+  },
+  {
+    "id": "s_ics",
+    "morpheme": "-ics",
+    "type": "suffix",
+    "origin": "Greek",
+    "meaning": "science, study, or practice of; properties of; practices pertaining to",
+    "meaningZh": "science, study, or practice of; properties of; practices pertaining to",
+    "cognateWordIds": [
+      "w_athletics",
+      "w_electronics",
+      "w_gymnastics",
+      "w_logistics",
+      "w_mathematics",
+      "w_physics",
+      "w_politics",
+      "w_statistics"
+    ]
+  },
+  {
+    "id": "r_turb",
+    "morpheme": "turb",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "confusion",
+    "meaningZh": "confusion",
+    "cognateWordIds": [
+      "w_disturb",
+      "w_disturbance",
+      "w_turbine",
+      "w_turbulent"
+    ]
+  },
+  {
+    "id": "r_sedsidsess",
+    "morpheme": "sedsidsess",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "sit; settle",
+    "meaningZh": "sit; settle",
+    "cognateWordIds": [
+      "w_obsess",
+      "w_obsession",
+      "w_president",
+      "w_sedentary",
+      "w_sedimentary",
+      "w_session"
+    ]
+  },
+  {
+    "id": "s_ation",
+    "morpheme": "-ation",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "the act, process, or result of",
+    "meaningZh": "the act, process, or result of",
+    "cognateWordIds": [
+      "w_admiration",
+      "w_celebration",
+      "w_collaboration",
+      "w_combination",
+      "w_communication",
+      "w_conversation",
+      "w_decoration",
+      "w_education",
+      "w_equation",
+      "w_imitation",
+      "w_information",
+      "w_irrigation",
+      "w_location",
+      "w_pronunciation",
+      "w_reservation",
+      "w_separation",
+      "w_transformation",
+      "w_translation",
+      "w_creation",
+      "w_elevation",
+      "w_discrimination",
+      "w_immigration",
+      "w_evaporation",
+      "w_vacation"
+    ]
+  },
+  {
+    "id": "r_serv2",
+    "morpheme": "serv2",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "slave",
+    "meaningZh": "slave",
+    "cognateWordIds": [
+      "w_servant",
+      "w_service"
+    ]
+  },
+  {
+    "id": "r_hexahex",
+    "morpheme": "hexahex",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "six",
+    "meaningZh": "six",
+    "cognateWordIds": []
+  },
+  {
+    "id": "p_il2",
+    "morpheme": "il-2",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "not, without",
+    "meaningZh": "無、沒有、缺乏",
+    "cognateWordIds": [
+      "w_illegal"
+    ]
+  },
+  {
+    "id": "r_vac",
+    "morpheme": "vac",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "empty",
+    "meaningZh": "empty",
+    "cognateWordIds": [
+      "w_evacuate",
+      "w_vacancy",
+      "w_vacant",
+      "w_vacate",
+      "w_vacation"
+    ]
+  },
+  {
+    "id": "r_loglogologue",
+    "morpheme": "loglogo-logue",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "word, speech, written work",
+    "meaningZh": "十、十倍",
+    "cognateWordIds": [
+      "w_catalogue",
+      "w_dialogue",
+      "w_epilogue",
+      "w_logic",
+      "w_logical",
+      "w_prologue"
+    ]
+  },
+  {
+    "id": "r_iatriatriiatroiatry",
+    "morpheme": "iatriatriiatro-iatry",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "medical care, healing",
+    "meaningZh": "medical care, healing",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_mis2miso",
+    "morpheme": "mis2miso",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "hate",
+    "meaningZh": "hate",
+    "cognateWordIds": []
+  },
+  {
+    "id": "s_ly2",
+    "morpheme": "-ly2",
+    "type": "suffix",
+    "origin": "Old English",
+    "meaning": "like; every (when attached to times)",
+    "meaningZh": "時間、時序",
+    "cognateWordIds": [
+      "w_daily",
+      "w_friendly",
+      "w_lively",
+      "w_lonely",
+      "w_unfriendly",
+      "w_lovely",
+      "w_orderly"
+    ]
+  },
+  {
+    "id": "r_gress",
+    "morpheme": "gress",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "to walk, go",
+    "meaningZh": "to walk, go",
+    "cognateWordIds": [
+      "w_aggression",
+      "w_aggressive",
+      "w_congress",
+      "w_progress"
+    ]
+  },
+  {
+    "id": "r_aptept",
+    "morpheme": "aptept",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "fit for",
+    "meaningZh": "fit for",
+    "cognateWordIds": [
+      "w_adapt",
+      "w_adaptation"
+    ]
+  },
+  {
+    "id": "r_docdoct",
+    "morpheme": "docdoct",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "teach",
+    "meaningZh": "teach",
+    "cognateWordIds": [
+      "w_doctor",
+      "w_document"
+    ]
+  },
+  {
+    "id": "r_ortho",
+    "morpheme": "ortho",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "straight, vertical, perpendicular; correct",
+    "meaningZh": "straight, vertical, perpendicular; correct",
+    "cognateWordIds": []
+  },
+  {
+    "id": "s_ist",
+    "morpheme": "-ist",
+    "type": "suffix",
+    "origin": "Greek",
+    "meaning": "person who does or believes in",
+    "meaningZh": "person who does or believes in",
+    "cognateWordIds": [
+      "w_artist",
+      "w_biologist",
+      "w_buddhist",
+      "w_chemist",
+      "w_communist",
+      "w_cyclist",
+      "w_dentist",
+      "w_environmentalist",
+      "w_journalist",
+      "w_physicist",
+      "w_realist",
+      "w_scientist",
+      "w_socialist",
+      "w_theorist"
+    ]
+  },
+  {
+    "id": "r_nov",
+    "morpheme": "nov",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "new",
+    "meaningZh": "new",
+    "cognateWordIds": [
+      "w_innovate",
+      "w_innovation",
+      "w_novel",
+      "w_novelty"
+    ]
+  },
+  {
+    "id": "r_tract",
+    "morpheme": "tract",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "draw, pull",
+    "meaningZh": "draw, pull",
+    "cognateWordIds": [
+      "w_abstract",
+      "w_attract",
+      "w_attraction",
+      "w_attractive",
+      "w_contract",
+      "w_distract",
+      "w_distraction",
+      "w_extract",
+      "w_subtract",
+      "w_subtraction",
+      "w_tract",
+      "w_tractor"
+    ]
+  },
+  {
+    "id": "r_fil1",
+    "morpheme": "fil1",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "son or daughter",
+    "meaningZh": "son or daughter",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_anim",
+    "morpheme": "anim",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "mind, spirit, life",
+    "meaningZh": "生命、活體、生存",
+    "cognateWordIds": [
+      "w_animal",
+      "w_animate",
+      "w_animation",
+      "w_unanimous"
+    ]
+  },
+  {
+    "id": "r_dondonatdat",
+    "morpheme": "dondonatdat",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "give",
+    "meaningZh": "give",
+    "cognateWordIds": [
+      "w_data",
+      "w_donate",
+      "w_donation",
+      "w_pardon"
+    ]
+  },
+  {
+    "id": "r_probprovprove",
+    "morpheme": "probprov-prove",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "good; test, prove",
+    "meaningZh": "good; test, prove",
+    "cognateWordIds": [
+      "w_approve",
+      "w_probable",
+      "w_probably"
+    ]
+  },
+  {
+    "id": "r_phobiaphobephobic",
+    "morpheme": "phobia-phobe-phobic",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "fear, dread",
+    "meaningZh": "fear, dread",
+    "cognateWordIds": []
+  },
+  {
+    "id": "s_ariumorium",
+    "morpheme": "-arium-orium",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "a place for",
+    "meaningZh": "a place for",
+    "cognateWordIds": [
+      "w_planetarium"
+    ]
+  },
+  {
+    "id": "r_stell",
+    "morpheme": "stell",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "star",
+    "meaningZh": "star",
+    "cognateWordIds": [
+      "w_interstellar"
+    ]
+  },
+  {
+    "id": "r_verd",
+    "morpheme": "verd",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "green",
+    "meaningZh": "green",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_tentintain",
+    "morpheme": "tentintain",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "to hold",
+    "meaningZh": "to hold",
+    "cognateWordIds": [
+      "w_attain",
+      "w_contain",
+      "w_container",
+      "w_content",
+      "w_continent",
+      "w_continual",
+      "w_continue",
+      "w_continuous",
+      "w_lieutenant",
+      "w_maintain",
+      "w_maintenance",
+      "w_obtain",
+      "w_retain",
+      "w_sustain",
+      "w_tennis"
+    ]
+  },
+  {
+    "id": "r_annenn",
+    "morpheme": "annenn",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "year, years",
+    "meaningZh": "year, years",
+    "cognateWordIds": [
+      "w_anniversary",
+      "w_annual"
+    ]
+  },
+  {
+    "id": "p_ef",
+    "morpheme": "ef-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "out, out of, away",
+    "meaningZh": "out, out of, away",
+    "cognateWordIds": [
+      "w_effect",
+      "w_efficient",
+      "w_effort"
+    ]
+  },
+  {
+    "id": "r_fid",
+    "morpheme": "fid",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "faith, trust",
+    "meaningZh": "faith, trust",
+    "cognateWordIds": [
+      "w_confidence",
+      "w_confident",
+      "w_fidelity"
+    ]
+  },
+  {
+    "id": "s_ulous",
+    "morpheme": "-ulous",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "tending to, characterized by",
+    "meaningZh": "十、十倍",
+    "cognateWordIds": [
+      "w_ridiculous"
+    ]
+  },
+  {
+    "id": "r_sex",
+    "morpheme": "sex",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "six",
+    "meaningZh": "six",
+    "cognateWordIds": []
+  },
+  {
+    "id": "s_iferous",
+    "morpheme": "-iferous",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "producing, bearing, carrying",
+    "meaningZh": "producing, bearing, carrying",
+    "cognateWordIds": []
+  },
+  {
+    "id": "p_cata",
+    "morpheme": "cata-",
+    "type": "prefix",
+    "origin": "Greek",
+    "meaning": "down; completely, thoroughly; against; according to",
+    "meaningZh": "down; completely, thoroughly; against; according to",
+    "cognateWordIds": [
+      "w_catalogue",
+      "w_catastrophe",
+      "w_category",
+      "w_cathedral",
+      "w_catholic"
+    ]
+  },
+  {
+    "id": "r_cur2",
+    "morpheme": "cur2",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "to care",
+    "meaningZh": "to care",
+    "cognateWordIds": [
+      "w_accuracy",
+      "w_accurate",
+      "w_cure",
+      "w_curiosity",
+      "w_curious",
+      "w_insecure",
+      "w_secure"
+    ]
+  },
+  {
+    "id": "r_ovovi",
+    "morpheme": "ovovi",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "egg",
+    "meaningZh": "egg",
+    "cognateWordIds": [
+      "w_oval"
+    ]
+  },
+  {
+    "id": "r_var",
+    "morpheme": "var",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "different",
+    "meaningZh": "different",
+    "cognateWordIds": [
+      "w_variety",
+      "w_vary"
+    ]
+  },
+  {
+    "id": "p_ultra",
+    "morpheme": "ultra-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "beyond, excessive",
+    "meaningZh": "beyond, excessive",
+    "cognateWordIds": [
+      "w_ultraviolet"
+    ]
+  },
+  {
+    "id": "r_rrhearrhoearrhag",
+    "morpheme": "rrhearrhoearrhag",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "flow, gush, discharge",
+    "meaningZh": "flow, gush, discharge",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_nano",
+    "morpheme": "nano",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "dwarf",
+    "meaningZh": "dwarf",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_dermdermadermatdermato",
+    "morpheme": "dermdermadermatdermato",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "skin",
+    "meaningZh": "skin",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_leg2lect1lig",
+    "morpheme": "leg2lect1lig",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "gather; choose; read",
+    "meaningZh": "gather; choose; read",
+    "cognateWordIds": [
+      "w_collect",
+      "w_elect",
+      "w_election",
+      "w_lecture",
+      "w_legend",
+      "w_neglect",
+      "w_select"
+    ]
+  },
+  {
+    "id": "r_pecc",
+    "morpheme": "pecc",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "sin",
+    "meaningZh": "sin",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_luct",
+    "morpheme": "luct",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "struggle",
+    "meaningZh": "struggle",
+    "cognateWordIds": [
+      "w_reluctant"
+    ]
+  },
+  {
+    "id": "r_ennea",
+    "morpheme": "ennea",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "nine",
+    "meaningZh": "nine",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_dodeca",
+    "morpheme": "dodeca",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "twelve, twelfth",
+    "meaningZh": "twelve, twelfth",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_femfemin",
+    "morpheme": "femfemin",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "female, woman",
+    "meaningZh": "female, woman",
+    "cognateWordIds": [
+      "w_female",
+      "w_feminist"
+    ]
+  },
+  {
+    "id": "p_under",
+    "morpheme": "under-",
+    "type": "prefix",
+    "origin": "Old English",
+    "meaning": "below, not enough",
+    "meaningZh": "below, not enough",
+    "cognateWordIds": [
+      "w_underground",
+      "w_underneath",
+      "w_understand",
+      "w_undertake",
+      "w_underwater",
+      "w_underwear"
+    ]
+  },
+  {
+    "id": "r_facficfecfactfect",
+    "morpheme": "facficfecfactfect",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "make, do",
+    "meaningZh": "製造、行動、使動",
+    "cognateWordIds": [
+      "w_affect",
+      "w_affection",
+      "w_artificial",
+      "w_beneficial",
+      "w_benefit",
+      "w_deficient",
+      "w_effect",
+      "w_efficient",
+      "w_fact",
+      "w_factory",
+      "w_fiction",
+      "w_infect",
+      "w_manufacture",
+      "w_sacrifice",
+      "w_satisfaction",
+      "w_satisfactory",
+      "w_significant",
+      "w_sufficient"
+    ]
+  },
+  {
+    "id": "p_con",
+    "morpheme": "con-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "with, together",
+    "meaningZh": "with, together",
+    "cognateWordIds": [
+      "w_concentrate",
+      "w_conclude",
+      "w_conclusion",
+      "w_conduct",
+      "w_confer",
+      "w_conference",
+      "w_confidence",
+      "w_confident",
+      "w_confine",
+      "w_confirm",
+      "w_conflict",
+      "w_conform",
+      "w_confuse",
+      "w_confusion",
+      "w_congratulate",
+      "w_congress",
+      "w_conjunction",
+      "w_connect",
+      "w_conspiracy",
+      "w_constant",
+      "w_construct",
+      "w_construction",
+      "w_contact",
+      "w_contain",
+      "w_container",
+      "w_context",
+      "w_continue",
+      "w_convince",
+      "w_convict",
+      "w_consequence",
+      "w_consequent"
+    ]
+  },
+  {
+    "id": "r_trib",
+    "morpheme": "trib",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "grant; allot",
+    "meaningZh": "grant; allot",
+    "cognateWordIds": [
+      "w_attribute",
+      "w_contribute",
+      "w_contribution"
+    ]
+  },
+  {
+    "id": "p_ir1",
+    "morpheme": "ir-1",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "in, into, on",
+    "meaningZh": "向內、進入、深入",
+    "cognateWordIds": [
+      "w_irrigate"
+    ]
+  },
+  {
+    "id": "r_port",
+    "morpheme": "port",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "carry",
+    "meaningZh": "carry",
+    "cognateWordIds": [
+      "w_export",
+      "w_import",
+      "w_important",
+      "w_port",
+      "w_portable",
+      "w_portal",
+      "w_porter",
+      "w_report",
+      "w_reporter",
+      "w_support",
+      "w_transport",
+      "w_transportation",
+      "w_unimportant"
+    ]
+  },
+  {
+    "id": "r_pugpugn",
+    "morpheme": "pugpugn",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "fight",
+    "meaningZh": "fight",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_polpolitpolis",
+    "morpheme": "polpolitpolis",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "city, citizen",
+    "meaningZh": "city, citizen",
+    "cognateWordIds": [
+      "w_metropolis",
+      "w_metropolitan",
+      "w_police",
+      "w_policy",
+      "w_political",
+      "w_politician",
+      "w_politics"
+    ]
+  },
+  {
+    "id": "s_ablyibly",
+    "morpheme": "-ably-ibly",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "in the manner or way indicated by the adjective",
+    "meaningZh": "in the manner or way indicated by the adjective",
+    "cognateWordIds": [
+      "w_considerably",
+      "w_inevitably",
+      "w_possibly",
+      "w_probably",
+      "w_terribly"
+    ]
+  },
+  {
+    "id": "s_ary2",
+    "morpheme": "-ary2",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "a person, thing, or place associated with",
+    "meaningZh": "a person, thing, or place associated with",
+    "cognateWordIds": [
+      "w_adversary",
+      "w_dictionary",
+      "w_library",
+      "w_secretary",
+      "w_vocabulary"
+    ]
+  },
+  {
+    "id": "p_en2em2",
+    "morpheme": "en-2em-2",
+    "type": "prefix",
+    "origin": "Greek",
+    "meaning": "in, into, inside",
+    "meaningZh": "向內、進入、深入",
+    "cognateWordIds": [
+      "w_embryo",
+      "w_energy"
+    ]
+  },
+  {
+    "id": "r_trophtrophotrophy",
+    "morpheme": "trophtropho-trophy",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "nourishment",
+    "meaningZh": "nourishment",
+    "cognateWordIds": []
+  },
+  {
+    "id": "p_in1",
+    "morpheme": "in-1",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "in, into, on",
+    "meaningZh": "向內、進入、深入",
+    "cognateWordIds": [
+      "w_incise",
+      "w_incision",
+      "w_include",
+      "w_infect",
+      "w_influence",
+      "w_influx",
+      "w_inform",
+      "w_information",
+      "w_inhibit",
+      "w_inscription",
+      "w_inspect",
+      "w_inspector"
+    ]
+  },
+  {
+    "id": "r_photphoto",
+    "morpheme": "photphoto",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "light",
+    "meaningZh": "光線、照亮、明亮",
+    "cognateWordIds": [
+      "w_photograph",
+      "w_photography",
+      "w_photosynthesis"
+    ]
+  },
+  {
+    "id": "s_eer",
+    "morpheme": "-eer",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "one who does or is related to",
+    "meaningZh": "one who does or is related to",
+    "cognateWordIds": [
+      "w_engineer",
+      "w_volunteer"
+    ]
+  },
+  {
+    "id": "p_ag",
+    "morpheme": "ag-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "to, toward",
+    "meaningZh": "to, toward",
+    "cognateWordIds": [
+      "w_aggravate",
+      "w_aggression",
+      "w_aggressive"
+    ]
+  },
+  {
+    "id": "p_iso",
+    "morpheme": "iso-",
+    "type": "prefix",
+    "origin": "Greek",
+    "meaning": "equal, same",
+    "meaningZh": "相等、相同、均勻",
+    "cognateWordIds": [
+      "w_isotope"
+    ]
+  },
+  {
+    "id": "r_mon",
+    "morpheme": "mon",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "advise, warn",
+    "meaningZh": "advise, warn",
+    "cognateWordIds": [
+      "w_monitor"
+    ]
+  },
+  {
+    "id": "r_nonnona",
+    "morpheme": "nonnona",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "nine",
+    "meaningZh": "nine",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_chronchrono",
+    "morpheme": "chronchrono",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "time",
+    "meaningZh": "時間、時序",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_cerebrcerebro",
+    "morpheme": "cerebrcerebro",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "brain",
+    "meaningZh": "brain",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_pyrpyro",
+    "morpheme": "pyrpyro",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "fire, heat, fever",
+    "meaningZh": "火、熱能、燃燒",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_dontodontodontoodon",
+    "morpheme": "dontodontodonto-odon",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "tooth, teeth",
+    "meaningZh": "tooth, teeth",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_libraliber2",
+    "morpheme": "libraliber2",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "balance, weight",
+    "meaningZh": "balance, weight",
+    "cognateWordIds": [
+      "w_deliberate",
+      "w_equilibrium"
+    ]
+  },
+  {
+    "id": "p_semidemi",
+    "morpheme": "semi-demi-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "half, partly",
+    "meaningZh": "half, partly",
+    "cognateWordIds": [
+      "w_semicircle",
+      "w_semiskilled"
+    ]
+  },
+  {
+    "id": "r_phyl",
+    "morpheme": "phyl",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "race, type",
+    "meaningZh": "race, type",
+    "cognateWordIds": []
+  },
+  {
+    "id": "p_at",
+    "morpheme": "at-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "to, toward",
+    "meaningZh": "to, toward",
+    "cognateWordIds": [
+      "w_attach",
+      "w_attain",
+      "w_attend",
+      "w_attendance",
+      "w_attention",
+      "w_attract",
+      "w_attractive"
+    ]
+  },
+  {
+    "id": "r_grav",
+    "morpheme": "grav",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "heavy",
+    "meaningZh": "heavy",
+    "cognateWordIds": [
+      "w_aggravate",
+      "w_gravity"
+    ]
+  },
+  {
+    "id": "p_ir2",
+    "morpheme": "ir-2",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "not, without",
+    "meaningZh": "無、沒有、缺乏",
+    "cognateWordIds": [
+      "w_irregular"
+    ]
+  },
+  {
+    "id": "r_junct",
+    "morpheme": "junct",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "join",
+    "meaningZh": "join",
+    "cognateWordIds": [
+      "w_conjunction"
+    ]
+  },
+  {
+    "id": "r_andrandro",
+    "morpheme": "andrandro",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "man, male",
+    "meaningZh": "man, male",
+    "cognateWordIds": [
+      "w_android"
+    ]
+  },
+  {
+    "id": "p_il1",
+    "morpheme": "il-1",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "in, into, on",
+    "meaningZh": "向內、進入、深入",
+    "cognateWordIds": [
+      "w_illuminate",
+      "w_illusion",
+      "w_illustrate"
+    ]
+  },
+  {
+    "id": "r_psychpsycho",
+    "morpheme": "psychpsycho",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "mind, soul, mental process",
+    "meaningZh": "mind, soul, mental process",
+    "cognateWordIds": [
+      "w_psychological",
+      "w_psychology"
+    ]
+  },
+  {
+    "id": "p_es",
+    "morpheme": "es-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "out, out of, away",
+    "meaningZh": "out, out of, away",
+    "cognateWordIds": [
+      "w_escape"
+    ]
+  },
+  {
+    "id": "p_bibin",
+    "morpheme": "bi-bin-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "two, twice, double",
+    "meaningZh": "two, twice, double",
+    "cognateWordIds": [
+      "w_bicycle",
+      "w_billion"
+    ]
+  },
+  {
+    "id": "r_lachrym",
+    "morpheme": "lachrym",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "tears",
+    "meaningZh": "tears",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_ver",
+    "morpheme": "ver",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "truth",
+    "meaningZh": "truth",
+    "cognateWordIds": [
+      "w_verdict"
+    ]
+  },
+  {
+    "id": "p_intra",
+    "morpheme": "intra-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "within, inside",
+    "meaningZh": "within, inside",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_struct",
+    "morpheme": "struct",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "build",
+    "meaningZh": "build",
+    "cognateWordIds": [
+      "w_construct",
+      "w_construction",
+      "w_destroy",
+      "w_destruction",
+      "w_destructive",
+      "w_instruct",
+      "w_instruction",
+      "w_instructor",
+      "w_obstruct",
+      "w_structure"
+    ]
+  },
+  {
+    "id": "r_necrnecro",
+    "morpheme": "necrnecro",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "dead; death",
+    "meaningZh": "dead; death",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_ititiner",
+    "morpheme": "ititiner",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "journey, road",
+    "meaningZh": "journey, road",
+    "cognateWordIds": [
+      "w_ambition",
+      "w_ambitious",
+      "w_circuit",
+      "w_exit"
+    ]
+  },
+  {
+    "id": "r_mobmotmov",
+    "morpheme": "mobmotmov",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "move",
+    "meaningZh": "移動、運轉、促動",
+    "cognateWordIds": [
+      "w_automobile",
+      "w_emotion",
+      "w_immobile",
+      "w_mobile",
+      "w_motivate",
+      "w_motivation",
+      "w_motive",
+      "w_motor",
+      "w_movement",
+      "w_remote",
+      "w_remove"
+    ]
+  },
+  {
+    "id": "r_vor",
+    "morpheme": "vor",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "to eat",
+    "meaningZh": "to eat",
+    "cognateWordIds": [
+      "w_carnivore",
+      "w_herbivore"
+    ]
+  },
+  {
+    "id": "s_ment",
+    "morpheme": "-ment",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "act, process, or instance of",
+    "meaningZh": "act, process, or instance of",
+    "cognateWordIds": [
+      "w_adjustment",
+      "w_advertisement",
+      "w_agreement",
+      "w_announcement",
+      "w_arrangement",
+      "w_commitment",
+      "w_complement",
+      "w_department",
+      "w_document",
+      "w_employment",
+      "w_entertainment",
+      "w_fragment",
+      "w_government",
+      "w_improvement",
+      "w_investment",
+      "w_judgment",
+      "w_measurement",
+      "w_movement",
+      "w_regiment",
+      "w_sentiment"
+    ]
+  },
+  {
+    "id": "r_acacracer",
+    "morpheme": "acacracer",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "sharp, bitter, sour",
+    "meaningZh": "sharp, bitter, sour",
+    "cognateWordIds": [
+      "w_acid",
+      "w_acidic",
+      "w_acute"
+    ]
+  },
+  {
+    "id": "p_sub",
+    "morpheme": "sub-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "under, after",
+    "meaningZh": "under, after",
+    "cognateWordIds": [
+      "w_subconscious",
+      "w_subdivision",
+      "w_subject",
+      "w_subscribe",
+      "w_subway"
+    ]
+  },
+  {
+    "id": "s_tyityuityeity",
+    "morpheme": "-ty-ity-uity-eity",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "state or quality of being",
+    "meaningZh": "state or quality of being",
+    "cognateWordIds": [
+      "w_dignity",
+      "w_ingenuity",
+      "w_liberty",
+      "w_loyalty",
+      "w_majority",
+      "w_minority",
+      "w_plenty",
+      "w_prosperity"
+    ]
+  },
+  {
+    "id": "r_arthrarthro",
+    "morpheme": "arthrarthro",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "joint",
+    "meaningZh": "joint",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_cor2cour2cord",
+    "morpheme": "cor2cour2cord",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "heart",
+    "meaningZh": "heart",
+    "cognateWordIds": [
+      "w_accord",
+      "w_cordial",
+      "w_courage",
+      "w_discord",
+      "w_discourage",
+      "w_encourage",
+      "w_record"
+    ]
+  },
+  {
+    "id": "r_onomasonomat",
+    "morpheme": "onomasonomat",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "name",
+    "meaningZh": "name",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_ludlus",
+    "morpheme": "ludlus",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "to play",
+    "meaningZh": "to play",
+    "cognateWordIds": [
+      "w_illusion"
+    ]
+  },
+  {
+    "id": "r_archarchiarchearchaearcheoarchaeoarcharchy",
+    "morpheme": "archarchiarchearchaearcheoarchaeo-arch-archy",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "first in rank or time",
+    "meaningZh": "時間、時序",
+    "cognateWordIds": [
+      "w_archaeology",
+      "w_archetype",
+      "w_architect",
+      "w_hierarchy"
+    ]
+  },
+  {
+    "id": "p_supersuprasur2",
+    "morpheme": "super-supra-sur-2",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "above, over",
+    "meaningZh": "在...上方、超越、過度",
+    "cognateWordIds": [
+      "w_superfluous",
+      "w_supernatural",
+      "w_supervise",
+      "w_surplus",
+      "w_surprise",
+      "w_survey",
+      "w_survival",
+      "w_survive",
+      "w_survivor"
+    ]
+  },
+  {
+    "id": "r_poly",
+    "morpheme": "poly",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "many",
+    "meaningZh": "many",
+    "cognateWordIds": [
+      "w_polygon"
+    ]
+  },
+  {
+    "id": "r_entero",
+    "morpheme": "entero",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "intestine",
+    "meaningZh": "intestine",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_vivvivivit",
+    "morpheme": "vivvivivit",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "life, living, live",
+    "meaningZh": "生命、活體、生存",
+    "cognateWordIds": [
+      "w_revive",
+      "w_survival",
+      "w_survive",
+      "w_survivor",
+      "w_vital",
+      "w_vitality",
+      "w_vitamin",
+      "w_vivid"
+    ]
+  },
+  {
+    "id": "r_urb",
+    "morpheme": "urb",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "city",
+    "meaningZh": "city",
+    "cognateWordIds": [
+      "w_urban"
+    ]
+  },
+  {
+    "id": "r_memormembermembr",
+    "morpheme": "memormembermembr",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "memory",
+    "meaningZh": "memory",
+    "cognateWordIds": [
+      "w_commemorate",
+      "w_memorial",
+      "w_memory",
+      "w_remember"
+    ]
+  },
+  {
+    "id": "r_monmono",
+    "morpheme": "monmono",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "one, single, alone",
+    "meaningZh": "單一、唯一、獨特",
+    "cognateWordIds": [
+      "w_monopoly"
+    ]
+  },
+  {
+    "id": "p_ante",
+    "morpheme": "ante-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "before",
+    "meaningZh": "before",
+    "cognateWordIds": [
+      "w_anticipate"
+    ]
+  },
+  {
+    "id": "p_e",
+    "morpheme": "e-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "out, out of, away",
+    "meaningZh": "out, out of, away",
+    "cognateWordIds": [
+      "w_educate",
+      "w_elaborate",
+      "w_elect",
+      "w_elicit",
+      "w_elite",
+      "w_elucidate",
+      "w_emerge",
+      "w_emergency",
+      "w_emit",
+      "w_enormous",
+      "w_erode",
+      "w_erupt",
+      "w_evacuate",
+      "w_evaluate",
+      "w_event",
+      "w_evident",
+      "w_evocative",
+      "w_evoke",
+      "w_evolution",
+      "w_evolve"
+    ]
+  },
+  {
+    "id": "r_term",
+    "morpheme": "term",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "end, boundary",
+    "meaningZh": "end, boundary",
+    "cognateWordIds": [
+      "w_determine",
+      "w_terminal",
+      "w_terminate",
+      "w_termination"
+    ]
+  },
+  {
+    "id": "s_ful2",
+    "morpheme": "-ful2",
+    "type": "suffix",
+    "origin": "Old English",
+    "meaning": "an amount that fills",
+    "meaningZh": "an amount that fills",
+    "cognateWordIds": [
+      "w_handful",
+      "w_mouthful",
+      "w_spoonful"
+    ]
+  },
+  {
+    "id": "r_ducduct",
+    "morpheme": "ducduct",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "lead; draw along",
+    "meaningZh": "lead; draw along",
+    "cognateWordIds": [
+      "w_conduct",
+      "w_deduce",
+      "w_educate",
+      "w_induce",
+      "w_introduce",
+      "w_produce",
+      "w_reduce"
+    ]
+  },
+  {
+    "id": "r_nom2nomonomy",
+    "morpheme": "nom2nomo-nomy",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "law, system of laws",
+    "meaningZh": "law, system of laws",
+    "cognateWordIds": [
+      "w_astronomy",
+      "w_autonomous",
+      "w_economy"
+    ]
+  },
+  {
+    "id": "p_hyphypo",
+    "morpheme": "hyp-hypo-",
+    "type": "prefix",
+    "origin": "Greek",
+    "meaning": "under, below, less",
+    "meaningZh": "在...下方、次級、隱蔽",
+    "cognateWordIds": [
+      "w_hypothalamus",
+      "w_hypothesis",
+      "w_hypothetical"
+    ]
+  },
+  {
+    "id": "p_im2",
+    "morpheme": "im-2",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "not, without",
+    "meaningZh": "無、沒有、缺乏",
+    "cognateWordIds": [
+      "w_immediate",
+      "w_immobile",
+      "w_immortal",
+      "w_immune",
+      "w_impatient",
+      "w_impolite",
+      "w_impossible",
+      "w_improper"
+    ]
+  },
+  {
+    "id": "r_audauditaudio",
+    "morpheme": "audauditaudio",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "hear",
+    "meaningZh": "hear",
+    "cognateWordIds": [
+      "w_audience",
+      "w_audio"
+    ]
+  },
+  {
+    "id": "r_vadvas",
+    "morpheme": "vadvas",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "to go",
+    "meaningZh": "to go",
+    "cognateWordIds": [
+      "w_invade"
+    ]
+  },
+  {
+    "id": "r_lat1",
+    "morpheme": "lat1",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "side",
+    "meaningZh": "side",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_via",
+    "morpheme": "via",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "way",
+    "meaningZh": "way",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_idio",
+    "morpheme": "idio",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "particular or personal to; distinct",
+    "meaningZh": "particular or personal to; distinct",
+    "cognateWordIds": [
+      "w_idiom"
+    ]
+  },
+  {
+    "id": "r_lexlect2",
+    "morpheme": "lexlect2",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "speak, speech, word",
+    "meaningZh": "speak, speech, word",
+    "cognateWordIds": [
+      "w_dialect"
+    ]
+  },
+  {
+    "id": "p_com",
+    "morpheme": "com-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "with, together",
+    "meaningZh": "with, together",
+    "cognateWordIds": [
+      "w_accomplish",
+      "w_combat",
+      "w_combine",
+      "w_commerce",
+      "w_commercial",
+      "w_commission",
+      "w_commit",
+      "w_comparison",
+      "w_complex",
+      "w_comprehend",
+      "w_command",
+      "w_commemorate",
+      "w_compare",
+      "w_compel",
+      "w_complete",
+      "w_complement",
+      "w_complicate",
+      "w_compose",
+      "w_component",
+      "w_compulsory",
+      "w_computer",
+      "w_compute"
+    ]
+  },
+  {
+    "id": "r_gnosgnosisgnomgnomy",
+    "morpheme": "gnosgnosisgnom-gnomy",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "know, knowledge",
+    "meaningZh": "知曉、知識、認識",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_anthantho",
+    "morpheme": "anthantho",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "flower",
+    "meaningZh": "flower",
+    "cognateWordIds": []
+  },
+  {
+    "id": "p_ac",
+    "morpheme": "ac-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "to, toward",
+    "meaningZh": "to, toward",
+    "cognateWordIds": [
+      "w_accelerate",
+      "w_accent",
+      "w_accept",
+      "w_acceptable",
+      "w_acceptance",
+      "w_access",
+      "w_accessible",
+      "w_accident",
+      "w_accidental",
+      "w_accommodate",
+      "w_accompany",
+      "w_accomplish",
+      "w_accord",
+      "w_account",
+      "w_accumulate",
+      "w_accuracy",
+      "w_accurate",
+      "w_accuse",
+      "w_accustom",
+      "w_acquire"
+    ]
+  },
+  {
+    "id": "r_ciscid1cide",
+    "morpheme": "ciscid1-cide",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "to cut, to kill",
+    "meaningZh": "to cut, to kill",
+    "cognateWordIds": [
+      "w_concise",
+      "w_decide",
+      "w_decision",
+      "w_decisive",
+      "w_homicide",
+      "w_incision",
+      "w_precise",
+      "w_precision",
+      "w_suicide"
+    ]
+  },
+  {
+    "id": "s_ure",
+    "morpheme": "-ure",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "act or process of",
+    "meaningZh": "act or process of",
+    "cognateWordIds": [
+      "w_adventure",
+      "w_agriculture",
+      "w_capture",
+      "w_exposure",
+      "w_failure",
+      "w_figure",
+      "w_fracture",
+      "w_lecture",
+      "w_literature",
+      "w_manufacture",
+      "w_miniature",
+      "w_picture",
+      "w_pressure",
+      "w_procedure",
+      "w_structure",
+      "w_texture",
+      "w_torture"
+    ]
+  },
+  {
+    "id": "r_tort",
+    "morpheme": "tort",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "twist",
+    "meaningZh": "twist",
+    "cognateWordIds": [
+      "w_distort",
+      "w_tortoise",
+      "w_torture"
+    ]
+  },
+  {
+    "id": "r_lithlitholitelithic",
+    "morpheme": "lithlitho-lite-lithic",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "mineral, rock, stone, fossil",
+    "meaningZh": "mineral, rock, stone, fossil",
+    "cognateWordIds": [
+      "w_lithosphere",
+      "w_neolithic",
+      "w_paleolithic"
+    ]
+  },
+  {
+    "id": "p_op",
+    "morpheme": "op-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "towards; against; away",
+    "meaningZh": "towards; against; away",
+    "cognateWordIds": [
+      "w_opponent",
+      "w_oppose",
+      "w_opposite"
+    ]
+  },
+  {
+    "id": "r_cur1currcor1corrcurscour1cours",
+    "morpheme": "cur1currcor1corrcurscour1cours",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "to run",
+    "meaningZh": "to run",
+    "cognateWordIds": [
+      "w_concur",
+      "w_corridor",
+      "w_courier",
+      "w_course",
+      "w_currency",
+      "w_current",
+      "w_curriculum",
+      "w_discourse",
+      "w_excursion",
+      "w_occur",
+      "w_occurrence",
+      "w_precursor",
+      "w_recur"
+    ]
+  },
+  {
+    "id": "p_tratrans",
+    "morpheme": "tra-trans-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "across, over, to the other side",
+    "meaningZh": "across, over, to the other side",
+    "cognateWordIds": [
+      "w_transcript",
+      "w_transfer",
+      "w_transform",
+      "w_transit",
+      "w_transition",
+      "w_translate",
+      "w_transmit",
+      "w_transparent",
+      "w_transplant",
+      "w_transport"
+    ]
+  },
+  {
+    "id": "s_ableibleble",
+    "morpheme": "-able-ible-ble",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "capable of being, doing, or undergoing",
+    "meaningZh": "capable of being, doing, or undergoing",
+    "cognateWordIds": [
+      "w_acceptable",
+      "w_accessible",
+      "w_capable",
+      "w_comparable",
+      "w_credible",
+      "w_dependable",
+      "w_disposable",
+      "w_flexible",
+      "w_impossible",
+      "w_detectable",
+      "w_incredible",
+      "w_inevitable",
+      "w_intangible",
+      "w_invisible",
+      "w_measurable",
+      "w_movable",
+      "w_notable",
+      "w_portable",
+      "w_possible",
+      "w_predictable",
+      "w_sensible",
+      "w_susceptible",
+      "w_tangible",
+      "w_visible",
+      "w_reliable",
+      "w_remarkable",
+      "w_durable",
+      "w_sustainable"
+    ]
+  },
+  {
+    "id": "p_ig",
+    "morpheme": "ig-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "not, without",
+    "meaningZh": "無、沒有、缺乏",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_sacrsacrisecr",
+    "morpheme": "sacrsacrisecr",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "holy",
+    "meaningZh": "holy",
+    "cognateWordIds": [
+      "w_sacred",
+      "w_sacrifice"
+    ]
+  },
+  {
+    "id": "s_osis",
+    "morpheme": "-osis",
+    "type": "suffix",
+    "origin": "Greek",
+    "meaning": "condition (usually medical) ",
+    "meaningZh": "condition (usually medical) ",
+    "cognateWordIds": [
+      "w_chlorosis",
+      "w_symbiosis"
+    ]
+  },
+  {
+    "id": "r_acro",
+    "morpheme": "acro",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "high, extremity, tip",
+    "meaningZh": "high, extremity, tip",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_mort",
+    "morpheme": "mort",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "death",
+    "meaningZh": "death",
+    "cognateWordIds": [
+      "w_immortal",
+      "w_immortality",
+      "w_mortal",
+      "w_mortality"
+    ]
+  },
+  {
+    "id": "r_prispriseprehensprehend",
+    "morpheme": "pris-priseprehens-prehend",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "take, grasp",
+    "meaningZh": "take, grasp",
+    "cognateWordIds": [
+      "w_comprehend",
+      "w_comprehensive",
+      "w_comprise",
+      "w_enterprise",
+      "w_surprise"
+    ]
+  },
+  {
+    "id": "r_horrhor",
+    "morpheme": "horrhor",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "tremble, bristle (as with fear)",
+    "meaningZh": "tremble, bristle (as with fear)",
+    "cognateWordIds": [
+      "w_horror"
+    ]
+  },
+  {
+    "id": "r_cranicranio",
+    "morpheme": "cranicranio",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "skull, cranium",
+    "meaningZh": "skull, cranium",
+    "cognateWordIds": []
+  },
+  {
+    "id": "p_non",
+    "morpheme": "non-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "not",
+    "meaningZh": "not",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_querquesquirquisquest",
+    "morpheme": "querquesquirquisquest",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "ask, seek",
+    "meaningZh": "ask, seek",
+    "cognateWordIds": [
+      "w_acquire",
+      "w_inquire",
+      "w_inquiry",
+      "w_question",
+      "w_request",
+      "w_require"
+    ]
+  },
+  {
+    "id": "s_arian",
+    "morpheme": "-arian",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "one believing in; one associated with; one having (age)",
+    "meaningZh": "one believing in; one associated with; one having (age)",
+    "cognateWordIds": [
+      "w_agrarian",
+      "w_librarian"
+    ]
+  },
+  {
+    "id": "p_with",
+    "morpheme": "with-",
+    "type": "prefix",
+    "origin": "Old English",
+    "meaning": "back, away",
+    "meaningZh": "back, away",
+    "cognateWordIds": [
+      "w_withdraw",
+      "w_within",
+      "w_without",
+      "w_withstand"
+    ]
+  },
+  {
+    "id": "r_cap2capitcipit",
+    "morpheme": "cap2capitcipit",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "head",
+    "meaningZh": "head",
+    "cognateWordIds": [
+      "w_capital",
+      "w_captain",
+      "w_precipitate",
+      "w_precipitation"
+    ]
+  },
+  {
+    "id": "r_bat",
+    "morpheme": "bat",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "beat",
+    "meaningZh": "beat",
+    "cognateWordIds": [
+      "w_battle",
+      "w_combat"
+    ]
+  },
+  {
+    "id": "p_ana",
+    "morpheme": "ana-",
+    "type": "prefix",
+    "origin": "Greek",
+    "meaning": "up; against; back",
+    "meaningZh": "up; against; back",
+    "cognateWordIds": [
+      "w_analogy",
+      "w_analysis",
+      "w_analyze"
+    ]
+  },
+  {
+    "id": "p_ababs",
+    "morpheme": "ab-abs-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "from, away from",
+    "meaningZh": "from, away from",
+    "cognateWordIds": [
+      "w_abnormal",
+      "w_abolish",
+      "w_abrupt",
+      "w_absence",
+      "w_absent",
+      "w_absolute",
+      "w_absorb",
+      "w_abstract",
+      "w_abuse"
+    ]
+  },
+  {
+    "id": "r_err",
+    "morpheme": "err",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "error, wander",
+    "meaningZh": "error, wander",
+    "cognateWordIds": [
+      "w_error"
+    ]
+  },
+  {
+    "id": "r_plicplexply",
+    "morpheme": "plicplexply",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "fold, plait",
+    "meaningZh": "fold, plait",
+    "cognateWordIds": [
+      "w_applicant",
+      "w_apply",
+      "w_complex",
+      "w_complicate",
+      "w_display",
+      "w_implication",
+      "w_imply",
+      "w_perplex"
+    ]
+  },
+  {
+    "id": "s_abilityibilitybilityubility",
+    "morpheme": "-ability-ibility-bility-ubility",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "ability to do, be, or undergo",
+    "meaningZh": "ability to do, be, or undergo",
+    "cognateWordIds": [
+      "w_stability"
+    ]
+  },
+  {
+    "id": "r_fort1",
+    "morpheme": "fort1",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "luck, chance",
+    "meaningZh": "luck, chance",
+    "cognateWordIds": [
+      "w_fortunate",
+      "w_fortune",
+      "w_unfortunate"
+    ]
+  },
+  {
+    "id": "r_taxtaxo",
+    "morpheme": "taxtaxo",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "arrangement, order",
+    "meaningZh": "arrangement, order",
+    "cognateWordIds": []
+  },
+  {
+    "id": "p_hemi",
+    "morpheme": "hemi-",
+    "type": "prefix",
+    "origin": "Greek",
+    "meaning": "half, partly",
+    "meaningZh": "half, partly",
+    "cognateWordIds": [
+      "w_hemisphere"
+    ]
+  },
+  {
+    "id": "r_serv1",
+    "morpheme": "serv1",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "save, keep",
+    "meaningZh": "save, keep",
+    "cognateWordIds": [
+      "w_conserve",
+      "w_preserve",
+      "w_reservation",
+      "w_reserve",
+      "w_reservoir"
+    ]
+  },
+  {
+    "id": "r_sumsumm",
+    "morpheme": "sumsumm",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "highest",
+    "meaningZh": "highest",
+    "cognateWordIds": [
+      "w_sum",
+      "w_summary"
+    ]
+  },
+  {
+    "id": "p_a3",
+    "morpheme": "a-3",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "to, toward",
+    "meaningZh": "to, toward",
+    "cognateWordIds": [
+      "w_aspect",
+      "w_aspire"
+    ]
+  },
+  {
+    "id": "r_pathpathopathicpathy",
+    "morpheme": "pathpatho-pathic-pathy",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "suffer, feel; disease",
+    "meaningZh": "suffer, feel; disease",
+    "cognateWordIds": [
+      "w_empathy",
+      "w_sympathy"
+    ]
+  },
+  {
+    "id": "p_af",
+    "morpheme": "af-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "to, toward",
+    "meaningZh": "to, toward",
+    "cognateWordIds": [
+      "w_affect",
+      "w_affection",
+      "w_affirm",
+      "w_affluent"
+    ]
+  },
+  {
+    "id": "r_matrmatrimater",
+    "morpheme": "matrmatrimater",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "mother",
+    "meaningZh": "mother",
+    "cognateWordIds": [
+      "w_matrix"
+    ]
+  },
+  {
+    "id": "r_carncarni",
+    "morpheme": "carncarni",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "flesh, body",
+    "meaningZh": "flesh, body",
+    "cognateWordIds": [
+      "w_carnivore"
+    ]
+  },
+  {
+    "id": "r_agogueagogagogy",
+    "morpheme": "agogueagogagogy",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "leader",
+    "meaningZh": "leader",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_lunluniluna",
+    "morpheme": "lunluniluna",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "moon",
+    "meaningZh": "moon",
+    "cognateWordIds": [
+      "w_lunar"
+    ]
+  },
+  {
+    "id": "r_imag",
+    "morpheme": "imag",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "likeness",
+    "meaningZh": "likeness",
+    "cognateWordIds": [
+      "w_image",
+      "w_imaginary",
+      "w_imagine"
+    ]
+  },
+  {
+    "id": "r_hetero",
+    "morpheme": "hetero",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "different, other",
+    "meaningZh": "不同、相異、其他",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_ocul",
+    "morpheme": "ocul",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "eye",
+    "meaningZh": "eye",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_rogrogat",
+    "morpheme": "rogrogat",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "ask",
+    "meaningZh": "ask",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_mymyo",
+    "morpheme": "mymyo",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "muscle",
+    "meaningZh": "muscle",
+    "cognateWordIds": []
+  },
+  {
+    "id": "p_sym",
+    "morpheme": "sym-",
+    "type": "prefix",
+    "origin": "Greek",
+    "meaning": "with, together with",
+    "meaningZh": "共同、一起、同時",
+    "cognateWordIds": [
+      "w_symbiosis",
+      "w_symbol",
+      "w_sympathy",
+      "w_symphony",
+      "w_symptom"
+    ]
+  },
+  {
+    "id": "r_ax",
+    "morpheme": "ax",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "axis",
+    "meaningZh": "axis",
+    "cognateWordIds": [
+      "w_axis"
+    ]
+  },
+  {
+    "id": "r_gyngynogynegynecgyneco",
+    "morpheme": "gyngynogynegynecgyneco",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "woman, female",
+    "meaningZh": "woman, female",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_veniventvenvene",
+    "morpheme": "veniventven-vene",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "to come",
+    "meaningZh": "to come",
+    "cognateWordIds": [
+      "w_advent",
+      "w_avenue",
+      "w_convention",
+      "w_conventional",
+      "w_event",
+      "w_eventual",
+      "w_intervene",
+      "w_intervention",
+      "w_invent",
+      "w_prevent"
+    ]
+  },
+  {
+    "id": "r_biobibe",
+    "morpheme": "biobi-be",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "life, living, living things",
+    "meaningZh": "生命、活體、生存",
+    "cognateWordIds": [
+      "w_biochemistry",
+      "w_biography",
+      "w_biological",
+      "w_biology",
+      "w_symbiosis"
+    ]
+  },
+  {
+    "id": "r_neg",
+    "morpheme": "neg",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "no",
+    "meaningZh": "no",
+    "cognateWordIds": [
+      "w_negative"
+    ]
+  },
+  {
+    "id": "r_cephalcephaloencephalencephalo",
+    "morpheme": "cephalcephaloencephalencephalo",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "head, brain",
+    "meaningZh": "head, brain",
+    "cognateWordIds": []
+  },
+  {
+    "id": "p_ar",
+    "morpheme": "ar-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "to, toward",
+    "meaningZh": "to, toward",
+    "cognateWordIds": [
+      "w_arrange",
+      "w_arrangement",
+      "w_arrest",
+      "w_arrival",
+      "w_arrive"
+    ]
+  },
+  {
+    "id": "r_mechan",
+    "morpheme": "mechan",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "machine; means",
+    "meaningZh": "machine; means",
+    "cognateWordIds": [
+      "w_mechanic",
+      "w_mechanical",
+      "w_mechanism",
+      "w_mechanize"
+    ]
+  },
+  {
+    "id": "r_maxi",
+    "morpheme": "maxi",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "largest",
+    "meaningZh": "largest",
+    "cognateWordIds": [
+      "w_maximum"
+    ]
+  },
+  {
+    "id": "r_putputat",
+    "morpheme": "putputat",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "trim; count; reckon or suppose",
+    "meaningZh": "trim; count; reckon or suppose",
+    "cognateWordIds": [
+      "w_compute",
+      "w_computer",
+      "w_dispute",
+      "w_reputation"
+    ]
+  },
+  {
+    "id": "s_ly1",
+    "morpheme": "-ly1",
+    "type": "suffix",
+    "origin": "Old English",
+    "meaning": "in such a way or manner",
+    "meaningZh": "in such a way or manner",
+    "cognateWordIds": [
+      "w_briefly",
+      "w_clearly"
+    ]
+  },
+  {
+    "id": "r_malmale",
+    "morpheme": "malmale",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "bad, evil, ill",
+    "meaningZh": "bad, evil, ill",
+    "cognateWordIds": [
+      "w_malfunction"
+    ]
+  },
+  {
+    "id": "r_leg1",
+    "morpheme": "leg1",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "law",
+    "meaningZh": "law",
+    "cognateWordIds": [
+      "w_illegal",
+      "w_legal"
+    ]
+  },
+  {
+    "id": "r_spectspecspicspectro",
+    "morpheme": "spectspecspicspectro",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "to see, look, watch",
+    "meaningZh": "看、視角、觀察",
+    "cognateWordIds": [
+      "w_aspect",
+      "w_circumspect",
+      "w_conspicuous",
+      "w_despise",
+      "w_expectation",
+      "w_inspect",
+      "w_inspector",
+      "w_perspective",
+      "w_prospect",
+      "w_respect",
+      "w_retrospect",
+      "w_special",
+      "w_specific",
+      "w_specify",
+      "w_specimen",
+      "w_spectacle",
+      "w_spectacular",
+      "w_spectator",
+      "w_spectrum",
+      "w_speculate",
+      "w_suspect"
+    ]
+  },
+  {
+    "id": "r_laborlaboratlab",
+    "morpheme": "laborlaboratlab",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "to work",
+    "meaningZh": "to work",
+    "cognateWordIds": [
+      "w_elaborate",
+      "w_labor",
+      "w_laboratory",
+      "w_laborer",
+      "w_laborious"
+    ]
+  },
+  {
+    "id": "r_thermthermo",
+    "morpheme": "thermthermo",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "heat, temperature",
+    "meaningZh": "heat, temperature",
+    "cognateWordIds": [
+      "w_geothermal",
+      "w_thermos"
+    ]
+  },
+  {
+    "id": "r_regrectrig1",
+    "morpheme": "regrectrig1",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "king, rule, guide; straight",
+    "meaningZh": "king, rule, guide; straight",
+    "cognateWordIds": [
+      "w_correct",
+      "w_direct",
+      "w_direction",
+      "w_director",
+      "w_erect",
+      "w_irregular",
+      "w_rectangle",
+      "w_regiment",
+      "w_regular",
+      "w_regulate",
+      "w_regulation"
+    ]
+  },
+  {
+    "id": "r_dendrdendrodendridendron",
+    "morpheme": "dendrdendrodendri-dendron",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "tree",
+    "meaningZh": "tree",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_fric",
+    "morpheme": "fric",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "rub",
+    "meaningZh": "rub",
+    "cognateWordIds": [
+      "w_friction"
+    ]
+  },
+  {
+    "id": "p_se",
+    "morpheme": "se-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "away, aside, apart",
+    "meaningZh": "away, aside, apart",
+    "cognateWordIds": [
+      "w_select",
+      "w_separate"
+    ]
+  },
+  {
+    "id": "s_iveative",
+    "morpheme": "-ive-ative",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "tending to, connected with, or performing",
+    "meaningZh": "十、十倍",
+    "cognateWordIds": [
+      "w_active",
+      "w_administrative",
+      "w_aggressive",
+      "w_alternative",
+      "w_attractive",
+      "w_captive",
+      "w_cognitive",
+      "w_conclusive",
+      "w_exclusive",
+      "w_expensive",
+      "w_figurative",
+      "w_infinitive",
+      "w_native",
+      "w_objective",
+      "w_productive",
+      "w_relative",
+      "w_subjective"
+    ]
+  },
+  {
+    "id": "p_exo",
+    "morpheme": "exo-",
+    "type": "prefix",
+    "origin": "Greek",
+    "meaning": "outer, outside",
+    "meaningZh": "outer, outside",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_osteosteo",
+    "morpheme": "osteosteo",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "bone",
+    "meaningZh": "bone",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_radicradix",
+    "morpheme": "radicradix",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "root",
+    "meaningZh": "root",
+    "cognateWordIds": [
+      "w_radical"
+    ]
+  },
+  {
+    "id": "r_par1",
+    "morpheme": "par1",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "equal",
+    "meaningZh": "equal",
+    "cognateWordIds": [
+      "w_comparable",
+      "w_comparative",
+      "w_compare",
+      "w_comparison",
+      "w_incomparable"
+    ]
+  },
+  {
+    "id": "p_of",
+    "morpheme": "of-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "towards; against; away",
+    "meaningZh": "towards; against; away",
+    "cognateWordIds": [
+      "w_offend",
+      "w_official"
+    ]
+  },
+  {
+    "id": "r_natnas",
+    "morpheme": "natnas",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "birth; born",
+    "meaningZh": "birth; born",
+    "cognateWordIds": [
+      "w_nation",
+      "w_national",
+      "w_nationality",
+      "w_native"
+    ]
+  },
+  {
+    "id": "r_temp1tempor",
+    "morpheme": "temp1tempor",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "time",
+    "meaningZh": "時間、時序",
+    "cognateWordIds": [
+      "w_contemporary",
+      "w_temporary"
+    ]
+  },
+  {
+    "id": "s_cy",
+    "morpheme": "-cy",
+    "type": "suffix",
+    "origin": "Latin and Greek",
+    "meaning": "state of or quality of",
+    "meaningZh": "state of or quality of",
+    "cognateWordIds": [
+      "w_accuracy",
+      "w_conspiracy"
+    ]
+  },
+  {
+    "id": "r_libr",
+    "morpheme": "libr",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "book",
+    "meaningZh": "book",
+    "cognateWordIds": [
+      "w_librarian",
+      "w_library"
+    ]
+  },
+  {
+    "id": "r_protoprot",
+    "morpheme": "protoprot",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "first, original, primitive",
+    "meaningZh": "first, original, primitive",
+    "cognateWordIds": [
+      "w_protagonist",
+      "w_protein",
+      "w_proterozoic",
+      "w_proton"
+    ]
+  },
+  {
+    "id": "r_dyndynadynamdynamo",
+    "morpheme": "dyndynadynamdynamo",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "power, energy, strength",
+    "meaningZh": "power, energy, strength",
+    "cognateWordIds": [
+      "w_dynamic"
+    ]
+  },
+  {
+    "id": "r_vic",
+    "morpheme": "vic",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "in place of",
+    "meaningZh": "in place of",
+    "cognateWordIds": []
+  },
+  {
+    "id": "s_antent",
+    "morpheme": "-ant-ent",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "(in adjectives) doing the action denoted by the verb root; (in nouns) one who or that which does the action denoted by the verb root.",
+    "meaningZh": "(in adjectives) doing the action denoted by the verb root; (in nouns) one who or that which does the action denoted by the verb root.",
+    "cognateWordIds": [
+      "w_accident",
+      "w_accidental",
+      "w_adjacent",
+      "w_affluent",
+      "w_agent",
+      "w_applicant",
+      "w_confident",
+      "w_consequent",
+      "w_consultant",
+      "w_continent",
+      "w_current",
+      "w_dependent",
+      "w_different",
+      "w_dominant",
+      "w_efficient",
+      "w_fluent",
+      "w_ignorant",
+      "w_important",
+      "w_indignant",
+      "w_informant",
+      "w_parent",
+      "w_participant",
+      "w_patient",
+      "w_predominant",
+      "w_president",
+      "w_reluctant",
+      "w_resident",
+      "w_servant",
+      "w_significant",
+      "w_student",
+      "w_vacant"
+    ]
+  },
+  {
+    "id": "r_pac",
+    "morpheme": "pac",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "peace",
+    "meaningZh": "peace",
+    "cognateWordIds": []
+  },
+  {
+    "id": "p_anti",
+    "morpheme": "anti-",
+    "type": "prefix",
+    "origin": "Latin and Greek",
+    "meaning": "against, opposed",
+    "meaningZh": "against, opposed",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_min",
+    "morpheme": "min",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "small; make smaller",
+    "meaningZh": "微小、細微",
+    "cognateWordIds": [
+      "w_diminish",
+      "w_miniature",
+      "w_minimal",
+      "w_minimize",
+      "w_minimum",
+      "w_minor",
+      "w_minority",
+      "w_minus"
+    ]
+  },
+  {
+    "id": "r_cap1cipcaptceptceiveceit",
+    "morpheme": "cap1cipcaptcept-ceive-ceit",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "to take, catch",
+    "meaningZh": "to take, catch",
+    "cognateWordIds": [
+      "w_accept",
+      "w_acceptable",
+      "w_acceptance",
+      "w_capable",
+      "w_capacity",
+      "w_captive",
+      "w_capture",
+      "w_concept",
+      "w_deceive",
+      "w_except",
+      "w_exception",
+      "w_participant",
+      "w_participate",
+      "w_perceive",
+      "w_receive",
+      "w_reception",
+      "w_susceptible"
+    ]
+  },
+  {
+    "id": "p_an2",
+    "morpheme": "an-2",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "to, toward",
+    "meaningZh": "to, toward",
+    "cognateWordIds": [
+      "w_announce",
+      "w_announcement"
+    ]
+  },
+  {
+    "id": "r_mergemers",
+    "morpheme": "mergemers",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "sink, dip, dive",
+    "meaningZh": "sink, dip, dive",
+    "cognateWordIds": [
+      "w_emerge",
+      "w_emergency"
+    ]
+  },
+  {
+    "id": "r_versvert",
+    "morpheme": "versvert",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "to turn; to be occupied with",
+    "meaningZh": "to turn; to be occupied with",
+    "cognateWordIds": [
+      "w_adversary",
+      "w_adverse",
+      "w_adversity",
+      "w_advertise",
+      "w_advertisement",
+      "w_anniversary",
+      "w_controversial",
+      "w_controversy",
+      "w_conversation",
+      "w_convert",
+      "w_diverse",
+      "w_diversity",
+      "w_divert",
+      "w_divorce",
+      "w_invertebrate",
+      "w_reverse",
+      "w_subvert",
+      "w_universe",
+      "w_university",
+      "w_version",
+      "w_versus",
+      "w_vertebrate",
+      "w_vertical"
+    ]
+  },
+  {
+    "id": "r_greg",
+    "morpheme": "greg",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "flock, gathering",
+    "meaningZh": "flock, gathering",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_flectflex",
+    "morpheme": "flectflex",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "bend",
+    "meaningZh": "bend",
+    "cognateWordIds": [
+      "w_deflect",
+      "w_flexible",
+      "w_reflect",
+      "w_reflection",
+      "w_reflex"
+    ]
+  },
+  {
+    "id": "r_fig",
+    "morpheme": "fig",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "form",
+    "meaningZh": "form",
+    "cognateWordIds": [
+      "w_configuration",
+      "w_figurative",
+      "w_figure",
+      "w_figurine"
+    ]
+  },
+  {
+    "id": "r_hydrhydro",
+    "morpheme": "hydrhydro",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "water, hydrogen, liquid",
+    "meaningZh": "水、液體、水域",
+    "cognateWordIds": [
+      "w_carbohydrate",
+      "w_hydrogen"
+    ]
+  },
+  {
+    "id": "r_gengener",
+    "morpheme": "gengener",
+    "type": "root",
+    "origin": "Latin and Greek",
+    "meaning": "birth, origin, race, kind",
+    "meaningZh": "birth, origin, race, kind",
+    "cognateWordIds": [
+      "w_gender",
+      "w_gene",
+      "w_general",
+      "w_generalization",
+      "w_generate",
+      "w_generation",
+      "w_generator",
+      "w_generous",
+      "w_genetic",
+      "w_genius",
+      "w_gentleman",
+      "w_genuine",
+      "w_hydrogen",
+      "w_oxygen"
+    ]
+  },
+  {
+    "id": "r_trit",
+    "morpheme": "trit",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "friction, wearing away",
+    "meaningZh": "friction, wearing away",
+    "cognateWordIds": []
+  },
+  {
+    "id": "s_ful1",
+    "morpheme": "-ful1",
+    "type": "suffix",
+    "origin": "Old English",
+    "meaning": "full of",
+    "meaningZh": "full of",
+    "cognateWordIds": [
+      "w_awful",
+      "w_beautiful",
+      "w_careful",
+      "w_cheerful",
+      "w_delightful",
+      "w_doubtful",
+      "w_faithful",
+      "w_fearful",
+      "w_fruitful",
+      "w_graceful",
+      "w_harmful",
+      "w_helpful",
+      "w_hopeful",
+      "w_joyful",
+      "w_meaningful",
+      "w_merciful",
+      "w_painful",
+      "w_peaceful",
+      "w_plentiful",
+      "w_powerful",
+      "w_resourceful",
+      "w_respectful",
+      "w_skillful",
+      "w_stressful",
+      "w_successful",
+      "w_thankful",
+      "w_useful"
+    ]
+  },
+  {
+    "id": "r_void",
+    "morpheme": "void",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "empty",
+    "meaningZh": "empty",
+    "cognateWordIds": [
+      "w_avoid",
+      "w_devoid"
+    ]
+  },
+  {
+    "id": "r_mitmis1mittmissmise",
+    "morpheme": "mitmis1mittmiss-mise",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "send, let go",
+    "meaningZh": "發送、派遣、釋放",
+    "cognateWordIds": [
+      "w_admission",
+      "w_admit",
+      "w_commission",
+      "w_commit",
+      "w_commitment",
+      "w_committee",
+      "w_compromise",
+      "w_dismiss",
+      "w_emission",
+      "w_emit",
+      "w_missile",
+      "w_mission",
+      "w_permission",
+      "w_permit",
+      "w_promise",
+      "w_promising",
+      "w_submit",
+      "w_transmit"
+    ]
+  },
+  {
+    "id": "p_per",
+    "morpheme": "per-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "through, throughout; very",
+    "meaningZh": "through, throughout; very",
+    "cognateWordIds": [
+      "w_perceive",
+      "w_perception",
+      "w_perfect",
+      "w_perform",
+      "w_permanent",
+      "w_permission",
+      "w_permit",
+      "w_perplex",
+      "w_persist",
+      "w_persistent",
+      "w_perspective",
+      "w_persuade",
+      "w_persuasion"
+    ]
+  },
+  {
+    "id": "r_iconicono",
+    "morpheme": "iconicono",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "image",
+    "meaningZh": "image",
+    "cognateWordIds": []
+  },
+  {
+    "id": "s_ose1",
+    "morpheme": "-ose1",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "having many or much of; tending toward",
+    "meaningZh": "十、十倍",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_cumul",
+    "morpheme": "cumul",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "heap",
+    "meaningZh": "heap",
+    "cognateWordIds": [
+      "w_accumulate",
+      "w_accumulation",
+      "w_accumulator"
+    ]
+  },
+  {
+    "id": "s_ization",
+    "morpheme": "-ization",
+    "type": "suffix",
+    "origin": "Latin and Greek",
+    "meaning": "act, fact, or process of",
+    "meaningZh": "act, fact, or process of",
+    "cognateWordIds": [
+      "w_civilization",
+      "w_generalization"
+    ]
+  },
+  {
+    "id": "r_bellbelli",
+    "morpheme": "bellbelli",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "war",
+    "meaningZh": "war",
+    "cognateWordIds": []
+  },
+  {
+    "id": "s_like",
+    "morpheme": "-like",
+    "type": "suffix",
+    "origin": "Old English",
+    "meaning": "similar to, in the manner of",
+    "meaningZh": "similar to, in the manner of",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_centcenti",
+    "morpheme": "centcenti",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "hundred, hundreth",
+    "meaningZh": "百、百分",
+    "cognateWordIds": [
+      "w_cent",
+      "w_centigrade",
+      "w_centimeter",
+      "w_century",
+      "w_percent",
+      "w_percentage"
+    ]
+  },
+  {
+    "id": "s_aceous",
+    "morpheme": "-aceous",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "resembling, related to, made of, or, in biological science, belonging to (a taxonomic class)",
+    "meaningZh": "resembling, related to, made of, or, in biological science, belonging to (a taxonomic class)",
+    "cognateWordIds": [
+      "w_cretaceous"
+    ]
+  },
+  {
+    "id": "r_ontonto",
+    "morpheme": "ontonto",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "being, existence",
+    "meaningZh": "十、十倍",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_posspot",
+    "morpheme": "posspot",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "able; power",
+    "meaningZh": "able; power",
+    "cognateWordIds": [
+      "w_impossible",
+      "w_possible",
+      "w_potential"
+    ]
+  },
+  {
+    "id": "r_flat",
+    "morpheme": "flat",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "blow, puff",
+    "meaningZh": "blow, puff",
+    "cognateWordIds": [
+      "w_inflate",
+      "w_inflation"
+    ]
+  },
+  {
+    "id": "r_actag",
+    "morpheme": "actag",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "do, drive",
+    "meaningZh": "do, drive",
+    "cognateWordIds": [
+      "w_action",
+      "w_active",
+      "w_activity",
+      "w_actor",
+      "w_actress",
+      "w_actual",
+      "w_agency",
+      "w_agenda",
+      "w_agent",
+      "w_interact",
+      "w_interaction",
+      "w_radioactive",
+      "w_react",
+      "w_reaction",
+      "w_reactor",
+      "w_transaction"
+    ]
+  },
+  {
+    "id": "r_habhib",
+    "morpheme": "habhib",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "hold, have",
+    "meaningZh": "hold, have",
+    "cognateWordIds": [
+      "w_exhibit",
+      "w_habit",
+      "w_habitat",
+      "w_habitual",
+      "w_inhabit",
+      "w_inhibit",
+      "w_prohibit"
+    ]
+  },
+  {
+    "id": "r_laps",
+    "morpheme": "laps",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "slip, fall back",
+    "meaningZh": "slip, fall back",
+    "cognateWordIds": [
+      "w_collapse"
+    ]
+  },
+  {
+    "id": "r_plasplastplasmplasty",
+    "morpheme": "plasplastplasm-plasty",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "mold, form; growth",
+    "meaningZh": "mold, form; growth",
+    "cognateWordIds": [
+      "w_plaster",
+      "w_plastic"
+    ]
+  },
+  {
+    "id": "s_ary1",
+    "morpheme": "-ary1",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "like, of, related to",
+    "meaningZh": "like, of, related to",
+    "cognateWordIds": [
+      "w_contemporary",
+      "w_elementary",
+      "w_evolutionary",
+      "w_extraordinary",
+      "w_legendary",
+      "w_literary",
+      "w_primary",
+      "w_revolutionary",
+      "w_sedentary",
+      "w_sedimentary",
+      "w_solitary",
+      "w_stationary",
+      "w_temporary",
+      "w_voluntary"
+    ]
+  },
+  {
+    "id": "p_im1",
+    "morpheme": "im-1",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "in, into, on",
+    "meaningZh": "向內、進入、深入",
+    "cognateWordIds": [
+      "w_imply",
+      "w_import",
+      "w_important",
+      "w_impose"
+    ]
+  },
+  {
+    "id": "r_not",
+    "morpheme": "not",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "mark",
+    "meaningZh": "mark",
+    "cognateWordIds": [
+      "w_notable",
+      "w_notation",
+      "w_notice"
+    ]
+  },
+  {
+    "id": "r_dicdict",
+    "morpheme": "dicdict",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "speak, declare",
+    "meaningZh": "speak, declare",
+    "cognateWordIds": [
+      "w_addict",
+      "w_addiction",
+      "w_contradict",
+      "w_contradiction",
+      "w_contradictory",
+      "w_dedicate",
+      "w_dictate",
+      "w_dictation",
+      "w_dictator",
+      "w_dictionary",
+      "w_indicate",
+      "w_predict",
+      "w_prediction",
+      "w_verdict",
+      "w_predictable"
+    ]
+  },
+  {
+    "id": "p_i",
+    "morpheme": "i-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "not, without",
+    "meaningZh": "無、沒有、缺乏",
+    "cognateWordIds": [
+      "w_ignorant",
+      "w_ignore"
+    ]
+  },
+  {
+    "id": "r_uni",
+    "morpheme": "uni",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "one",
+    "meaningZh": "one",
+    "cognateWordIds": [
+      "w_uniform",
+      "w_union",
+      "w_unique",
+      "w_unit",
+      "w_unite",
+      "w_universe",
+      "w_university"
+    ]
+  },
+  {
+    "id": "r_clauscloscludclus",
+    "morpheme": "clauscloscludclus",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "to close",
+    "meaningZh": "to close",
+    "cognateWordIds": [
+      "w_closet",
+      "w_conclude",
+      "w_conclusion",
+      "w_conclusive",
+      "w_disclose",
+      "w_enclose",
+      "w_exclude",
+      "w_exclusive",
+      "w_include"
+    ]
+  },
+  {
+    "id": "s_latry",
+    "morpheme": "-latry",
+    "type": "suffix",
+    "origin": "Greek",
+    "meaning": "worship",
+    "meaningZh": "worship",
+    "cognateWordIds": []
+  },
+  {
+    "id": "s_anianean",
+    "morpheme": "-an-ian-ean",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "in adjectives: from (a place) or pertaining to or following (a figure or school of thought); in nouns: person or thing from (a place) or associated with (an activity or school of thought).",
+    "meaningZh": "in adjectives: from (a place) or pertaining to or following (a figure or school of thought); in nouns: person or thing from (a place) or associated with (an activity or school of thought).",
+    "cognateWordIds": [
+      "w_american",
+      "w_asian",
+      "w_civilian",
+      "w_european",
+      "w_historian",
+      "w_mediterranean",
+      "w_mexican",
+      "w_politician",
+      "w_technician",
+      "w_urban"
+    ]
+  },
+  {
+    "id": "r_teleteltelo",
+    "morpheme": "teleteltelo",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "distance, end",
+    "meaningZh": "distance, end",
+    "cognateWordIds": [
+      "w_telecommunication",
+      "w_telegram",
+      "w_telegraph",
+      "w_telemetry",
+      "w_telepathy",
+      "w_telephone",
+      "w_telescope",
+      "w_television"
+    ]
+  },
+  {
+    "id": "r_geo",
+    "morpheme": "geo",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "earth",
+    "meaningZh": "earth",
+    "cognateWordIds": [
+      "w_geography",
+      "w_geology",
+      "w_geometry"
+    ]
+  },
+  {
+    "id": "r_posposeponponepound",
+    "morpheme": "pos-posepon-pone-pound",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "put, place",
+    "meaningZh": "put, place",
+    "cognateWordIds": [
+      "w_component",
+      "w_compound",
+      "w_decompose",
+      "w_deposition",
+      "w_disposable",
+      "w_disposal",
+      "w_expose",
+      "w_exposition",
+      "w_exposure",
+      "w_impose",
+      "w_opponent",
+      "w_oppose",
+      "w_opposite",
+      "w_opposition",
+      "w_pose",
+      "w_positive",
+      "w_postpone",
+      "w_proponent",
+      "w_purpose",
+      "w_suppose"
+    ]
+  },
+  {
+    "id": "p_dis",
+    "morpheme": "dis-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "not; apart; reverse, negate",
+    "meaningZh": "not; apart; reverse, negate",
+    "cognateWordIds": [
+      "w_disable",
+      "w_disadvantage",
+      "w_disagree",
+      "w_disappear",
+      "w_disappoint",
+      "w_discard",
+      "w_discord",
+      "w_disgust",
+      "w_dishonest",
+      "w_dislike",
+      "w_disobey",
+      "w_disorder",
+      "w_disorient",
+      "w_displace",
+      "w_display",
+      "w_displease",
+      "w_disposable",
+      "w_disposal",
+      "w_dissatisfy",
+      "w_dissent",
+      "w_dissolve",
+      "w_distort",
+      "w_disturb"
+    ]
+  },
+  {
+    "id": "r_loqulocu",
+    "morpheme": "loqulocu",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "speak; speech",
+    "meaningZh": "speak; speech",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_credcredit",
+    "morpheme": "credcredit",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "believe",
+    "meaningZh": "believe",
+    "cognateWordIds": [
+      "w_credible",
+      "w_credit",
+      "w_incredible"
+    ]
+  },
+  {
+    "id": "p_pro1",
+    "morpheme": "pro-1",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "before, forward, forth",
+    "meaningZh": "在...之前、向前、預先",
+    "cognateWordIds": [
+      "w_procedure",
+      "w_proceed",
+      "w_produce",
+      "w_profound",
+      "w_progress",
+      "w_project",
+      "w_prominent",
+      "w_promise",
+      "w_promote",
+      "w_pronoun",
+      "w_propagate",
+      "w_proponent",
+      "w_prosecute",
+      "w_prospect",
+      "w_protect",
+      "w_provide",
+      "w_provoke"
+    ]
+  },
+  {
+    "id": "s_tude",
+    "morpheme": "-tude",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "state or condition of",
+    "meaningZh": "state or condition of",
+    "cognateWordIds": [
+      "w_altitude",
+      "w_fortitude",
+      "w_gratitude",
+      "w_latitude",
+      "w_magnitude"
+    ]
+  },
+  {
+    "id": "r_nav",
+    "morpheme": "nav",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "ship",
+    "meaningZh": "ship",
+    "cognateWordIds": [
+      "w_navigate",
+      "w_navigation",
+      "w_navy"
+    ]
+  },
+  {
+    "id": "r_fallfals",
+    "morpheme": "fallfals",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "to deceive",
+    "meaningZh": "to deceive",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_alteralternaltr",
+    "morpheme": "alteralternaltr",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "other; change",
+    "meaningZh": "other; change",
+    "cognateWordIds": [
+      "w_alter",
+      "w_alternate",
+      "w_alternative"
+    ]
+  },
+  {
+    "id": "s_ulent",
+    "morpheme": "-ulent",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "characterized by, full of",
+    "meaningZh": "characterized by, full of",
+    "cognateWordIds": [
+      "w_turbulent"
+    ]
+  },
+  {
+    "id": "r_xerxeroxeri",
+    "morpheme": "xerxeroxeri",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "dry",
+    "meaningZh": "dry",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_hepthepta",
+    "morpheme": "hepthepta",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "seven",
+    "meaningZh": "seven",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_amamaamor",
+    "morpheme": "amamaamor",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "love, friendship",
+    "meaningZh": "love, friendship",
+    "cognateWordIds": [
+      "w_amateur",
+      "w_enemy"
+    ]
+  },
+  {
+    "id": "r_cadcascid2",
+    "morpheme": "cadcascid2",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "to fall",
+    "meaningZh": "to fall",
+    "cognateWordIds": [
+      "w_accident",
+      "w_accidental",
+      "w_cascade",
+      "w_coincidence",
+      "w_deciduous",
+      "w_incidence",
+      "w_incident",
+      "w_occasion"
+    ]
+  },
+  {
+    "id": "r_vol",
+    "morpheme": "vol",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "wish, intention, will",
+    "meaningZh": "十、十倍",
+    "cognateWordIds": [
+      "w_voluntary",
+      "w_volunteer"
+    ]
+  },
+  {
+    "id": "p_di3",
+    "morpheme": "di-3",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "not, apart, reverse, negate",
+    "meaningZh": "not, apart, reverse, negate",
+    "cognateWordIds": [
+      "w_direct",
+      "w_direction",
+      "w_director",
+      "w_divert"
+    ]
+  },
+  {
+    "id": "r_rupt",
+    "morpheme": "rupt",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "to break, burst",
+    "meaningZh": "打破、破碎、折斷",
+    "cognateWordIds": [
+      "w_abrupt",
+      "w_bankrupt",
+      "w_corrupt",
+      "w_erupt",
+      "w_interrupt"
+    ]
+  },
+  {
+    "id": "p_endo",
+    "morpheme": "endo-",
+    "type": "prefix",
+    "origin": "Greek",
+    "meaning": "inside",
+    "meaningZh": "inside",
+    "cognateWordIds": [
+      "w_endocrine",
+      "w_endogenous"
+    ]
+  },
+  {
+    "id": "r_orb",
+    "morpheme": "orb",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "wheel, circle",
+    "meaningZh": "wheel, circle",
+    "cognateWordIds": [
+      "w_orbit"
+    ]
+  },
+  {
+    "id": "p_pre",
+    "morpheme": "pre-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "before",
+    "meaningZh": "before",
+    "cognateWordIds": [
+      "w_precede",
+      "w_precursor",
+      "w_predict",
+      "w_predictable",
+      "w_prediction",
+      "w_prefer",
+      "w_preference",
+      "w_prejudice"
+    ]
+  },
+  {
+    "id": "r_anthranthroanthropanthropo",
+    "morpheme": "anthranthroanthropanthropo",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "human being",
+    "meaningZh": "human being",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_barbaro",
+    "morpheme": "barbaro",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "pressure, weight",
+    "meaningZh": "pressure, weight",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_host2",
+    "morpheme": "host2",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "stranger, enemy",
+    "meaningZh": "stranger, enemy",
+    "cognateWordIds": [
+      "w_hostile"
+    ]
+  },
+  {
+    "id": "r_sist",
+    "morpheme": "sist",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "stand",
+    "meaningZh": "stand",
+    "cognateWordIds": [
+      "w_assist",
+      "w_consist",
+      "w_exist",
+      "w_insist",
+      "w_persist",
+      "w_resist"
+    ]
+  },
+  {
+    "id": "r_opt1",
+    "morpheme": "opt1",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "best",
+    "meaningZh": "best",
+    "cognateWordIds": []
+  },
+  {
+    "id": "s_fic",
+    "morpheme": "-fic",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "making, doing, causing",
+    "meaningZh": "making, doing, causing",
+    "cognateWordIds": [
+      "w_pacific",
+      "w_prolific",
+      "w_scientific"
+    ]
+  },
+  {
+    "id": "r_civ",
+    "morpheme": "civ",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "citizen",
+    "meaningZh": "citizen",
+    "cognateWordIds": [
+      "w_civil",
+      "w_civilian",
+      "w_civilization",
+      "w_civilized"
+    ]
+  },
+  {
+    "id": "p_sup",
+    "morpheme": "sup-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "under, below",
+    "meaningZh": "在...下方、次級、隱蔽",
+    "cognateWordIds": [
+      "w_supply",
+      "w_support",
+      "w_suppress"
+    ]
+  },
+  {
+    "id": "r_octoctoocta",
+    "morpheme": "octoctoocta",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "eight",
+    "meaningZh": "eight",
+    "cognateWordIds": [
+      "w_october"
+    ]
+  },
+  {
+    "id": "s_fyifyefy",
+    "morpheme": "-fy-ify-efy",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "make, cause to be, become",
+    "meaningZh": "make, cause to be, become",
+    "cognateWordIds": [
+      "w_clarify",
+      "w_justify",
+      "w_magnify",
+      "w_putrefy",
+      "w_qualify",
+      "w_satisfy",
+      "w_solidify"
+    ]
+  },
+  {
+    "id": "r_init",
+    "morpheme": "init",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "beginning",
+    "meaningZh": "beginning",
+    "cognateWordIds": [
+      "w_initial",
+      "w_initiate",
+      "w_initiative"
+    ]
+  },
+  {
+    "id": "r_vocvoke",
+    "morpheme": "voc-voke",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "voice, to call",
+    "meaningZh": "voice, to call",
+    "cognateWordIds": [
+      "w_advocate",
+      "w_evocative",
+      "w_evoke",
+      "w_provoke",
+      "w_revoke",
+      "w_vocabulary",
+      "w_vocal",
+      "w_vocalist",
+      "w_vocation"
+    ]
+  },
+  {
+    "id": "r_nephrnephro",
+    "morpheme": "nephrnephro",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "kidney",
+    "meaningZh": "kidney",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_dextrdextro",
+    "morpheme": "dextrdextro",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "on the righthand side; skilful",
+    "meaningZh": "手、操作、手法",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_zygzygo",
+    "morpheme": "zygzygo",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "pair",
+    "meaningZh": "pair",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_grat",
+    "morpheme": "grat",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "pleasing",
+    "meaningZh": "pleasing",
+    "cognateWordIds": [
+      "w_congratulate",
+      "w_grateful",
+      "w_gratify",
+      "w_gratitude"
+    ]
+  },
+  {
+    "id": "s_age",
+    "morpheme": "-age",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "act, process, or result of (the action indicated by the verb base)",
+    "meaningZh": "act, process, or result of (the action indicated by the verb base)",
+    "cognateWordIds": [
+      "w_advantage",
+      "w_carriage",
+      "w_courage",
+      "w_coverage",
+      "w_drainage",
+      "w_marriage",
+      "w_package",
+      "w_passage",
+      "w_postage",
+      "w_shortage",
+      "w_storage",
+      "w_voyage"
+    ]
+  },
+  {
+    "id": "r_arm",
+    "morpheme": "arm",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "arms, weapons",
+    "meaningZh": "arms, weapons",
+    "cognateWordIds": [
+      "w_army"
+    ]
+  },
+  {
+    "id": "r_sclersclero",
+    "morpheme": "sclersclero",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "hard",
+    "meaningZh": "hard",
+    "cognateWordIds": []
+  },
+  {
+    "id": "s_ish",
+    "morpheme": "-ish",
+    "type": "suffix",
+    "origin": "Old English",
+    "meaning": "of, resembling; somewhat",
+    "meaningZh": "of, resembling; somewhat",
+    "cognateWordIds": [
+      "w_childish",
+      "w_foolish",
+      "w_selfish"
+    ]
+  },
+  {
+    "id": "r_gradgrade",
+    "morpheme": "grad-grade",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "go, step, degree",
+    "meaningZh": "go, step, degree",
+    "cognateWordIds": [
+      "w_centigrade",
+      "w_grade",
+      "w_gradual",
+      "w_graduate",
+      "w_ingredient",
+      "w_postgraduate"
+    ]
+  },
+  {
+    "id": "r_megamegalmegalomegaly",
+    "morpheme": "megamegalmegalo-megaly",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "large, great, million",
+    "meaningZh": "宏大、巨大、放大",
+    "cognateWordIds": []
+  },
+  {
+    "id": "s_logyology",
+    "morpheme": "-logy-ology",
+    "type": "suffix",
+    "origin": "Greek",
+    "meaning": "study of, science of; written work; structure or principle",
+    "meaningZh": "十、十倍",
+    "cognateWordIds": [
+      "w_analogy",
+      "w_apology",
+      "w_biology",
+      "w_ecology",
+      "w_geology",
+      "w_ideology",
+      "w_psychology",
+      "w_technology"
+    ]
+  },
+  {
+    "id": "r_cyclcyclo",
+    "morpheme": "cyclcyclo",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "wheel, circle",
+    "meaningZh": "wheel, circle",
+    "cognateWordIds": [
+      "w_bicycle",
+      "w_cycle",
+      "w_cyclist",
+      "w_recycle"
+    ]
+  },
+  {
+    "id": "r_didiurnjourn",
+    "morpheme": "didiurnjourn",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "day",
+    "meaningZh": "day",
+    "cognateWordIds": [
+      "w_diary",
+      "w_journey",
+      "w_journal",
+      "w_journalist"
+    ]
+  },
+  {
+    "id": "r_clamclaim",
+    "morpheme": "clamclaim",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "to cry out",
+    "meaningZh": "to cry out",
+    "cognateWordIds": [
+      "w_exclaim"
+    ]
+  },
+  {
+    "id": "r_mermere",
+    "morpheme": "mer-mere",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "part",
+    "meaningZh": "part",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_sci",
+    "morpheme": "sci",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "to know",
+    "meaningZh": "知曉、知識、認識",
+    "cognateWordIds": [
+      "w_conscious",
+      "w_science"
+    ]
+  },
+  {
+    "id": "r_trop",
+    "morpheme": "trop",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "turn, change",
+    "meaningZh": "turn, change",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_text",
+    "morpheme": "text",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "weave",
+    "meaningZh": "weave",
+    "cognateWordIds": [
+      "w_context",
+      "w_text",
+      "w_textile",
+      "w_texture"
+    ]
+  },
+  {
+    "id": "r_integ",
+    "morpheme": "integ",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "whole",
+    "meaningZh": "whole",
+    "cognateWordIds": [
+      "w_integral",
+      "w_integrate",
+      "w_integrity"
+    ]
+  },
+  {
+    "id": "r_erythrerythro",
+    "morpheme": "erythrerythro",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "red",
+    "meaningZh": "red",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_demdemo",
+    "morpheme": "demdemo",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "people, populace",
+    "meaningZh": "people, populace",
+    "cognateWordIds": [
+      "w_democracy",
+      "w_democrat"
+    ]
+  },
+  {
+    "id": "r_morphmorpho",
+    "morpheme": "morphmorpho",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "shape, form",
+    "meaningZh": "shape, form",
+    "cognateWordIds": []
+  },
+  {
+    "id": "p_inter",
+    "morpheme": "inter-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "between, among",
+    "meaningZh": "在...之間、互相、跨越",
+    "cognateWordIds": [
+      "w_interact",
+      "w_interconnect",
+      "w_interfere",
+      "w_interlock",
+      "w_intermediate",
+      "w_international",
+      "w_internet",
+      "w_interpret",
+      "w_interracial",
+      "w_interrupt",
+      "w_interstellar",
+      "w_intervene"
+    ]
+  },
+  {
+    "id": "r_senssent1",
+    "morpheme": "senssent1",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "to feel, to perceive",
+    "meaningZh": "to feel, to perceive",
+    "cognateWordIds": [
+      "w_consent",
+      "w_dissent",
+      "w_sensible",
+      "w_sensitive",
+      "w_sensitivity",
+      "w_sentiment"
+    ]
+  },
+  {
+    "id": "s_ator",
+    "morpheme": "-ator",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "a person or thing that does",
+    "meaningZh": "a person or thing that does",
+    "cognateWordIds": [
+      "w_dictator",
+      "w_elevator",
+      "w_spectator"
+    ]
+  },
+  {
+    "id": "p_co",
+    "morpheme": "co-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "with, together",
+    "meaningZh": "with, together",
+    "cognateWordIds": [
+      "w_coexist",
+      "w_cooperate"
+    ]
+  },
+  {
+    "id": "r_ridris",
+    "morpheme": "ridris",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "laugh",
+    "meaningZh": "laugh",
+    "cognateWordIds": [
+      "w_ridiculous"
+    ]
+  },
+  {
+    "id": "s_ness",
+    "morpheme": "-ness",
+    "type": "suffix",
+    "origin": "Old English",
+    "meaning": "state or quality of",
+    "meaningZh": "state or quality of",
+    "cognateWordIds": [
+      "w_consciousness",
+      "w_fitness",
+      "w_illness",
+      "w_kindness",
+      "w_darkness",
+      "w_sickness",
+      "w_business",
+      "w_witness"
+    ]
+  },
+  {
+    "id": "r_ambamblambul",
+    "morpheme": "ambamblambul",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "walk",
+    "meaningZh": "walk",
+    "cognateWordIds": [
+      "w_ambition",
+      "w_ambulance"
+    ]
+  },
+  {
+    "id": "r_mand",
+    "morpheme": "mand",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "give an order",
+    "meaningZh": "give an order",
+    "cognateWordIds": [
+      "w_command",
+      "w_demand"
+    ]
+  },
+  {
+    "id": "p_cor",
+    "morpheme": "cor-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "with, together",
+    "meaningZh": "with, together",
+    "cognateWordIds": [
+      "w_correct",
+      "w_correlate",
+      "w_correspond",
+      "w_corrupt"
+    ]
+  },
+  {
+    "id": "r_xanthxantho",
+    "morpheme": "xanthxantho",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "yellow",
+    "meaningZh": "yellow",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_liplipo",
+    "morpheme": "liplipo",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "fat",
+    "meaningZh": "fat",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_oligoligo",
+    "morpheme": "oligoligo",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "few; deficiency",
+    "meaningZh": "few; deficiency",
+    "cognateWordIds": []
+  },
+  {
+    "id": "p_out",
+    "morpheme": "out-",
+    "type": "prefix",
+    "origin": "Old English",
+    "meaning": "out, outside, outward; beyond, better, more",
+    "meaningZh": "out, outside, outward; beyond, better, more",
+    "cognateWordIds": [
+      "w_outbreak",
+      "w_outcome",
+      "w_output",
+      "w_outside"
+    ]
+  },
+  {
+    "id": "r_stastasstatstantstance",
+    "morpheme": "stastasstatstant-stance",
+    "type": "root",
+    "origin": "Latin and Greek",
+    "meaning": "stand, standing, stabilize",
+    "meaningZh": "stand, standing, stabilize",
+    "cognateWordIds": [
+      "w_circumstance",
+      "w_constant",
+      "w_establish",
+      "w_obstacle",
+      "w_stability",
+      "w_stabilize",
+      "w_stable",
+      "w_static",
+      "w_station",
+      "w_stationary",
+      "w_statue",
+      "w_status",
+      "w_substance"
+    ]
+  },
+  {
+    "id": "s_itious",
+    "morpheme": "-itious",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "having the nature of, characterized by",
+    "meaningZh": "having the nature of, characterized by",
+    "cognateWordIds": []
+  },
+  {
+    "id": "s_al2ialual",
+    "morpheme": "-al2-ial-ual",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "pertaining to",
+    "meaningZh": "pertaining to",
+    "cognateWordIds": [
+      "w_abnormal",
+      "w_accidental",
+      "w_additional",
+      "w_annual",
+      "w_artificial",
+      "w_capital",
+      "w_central",
+      "w_ceremonial",
+      "w_chemical",
+      "w_classical",
+      "w_coastal",
+      "w_colonial",
+      "w_commercial",
+      "w_confidential",
+      "w_continental",
+      "w_continual",
+      "w_controversial",
+      "w_conventional",
+      "w_criminal",
+      "w_critical",
+      "w_crucial",
+      "w_cultural",
+      "w_cylindrical",
+      "w_developmental",
+      "w_economical",
+      "w_educational",
+      "w_electrical",
+      "w_emotional",
+      "w_essential",
+      "w_equal",
+      "w_experimental",
+      "w_facial",
+      "w_factual",
+      "w_federal",
+      "w_final",
+      "w_financial",
+      "w_formal",
+      "w_functional",
+      "w_fundamental",
+      "w_general",
+      "w_global",
+      "w_grammatical",
+      "w_habitual",
+      "w_historical",
+      "w_hysterical",
+      "w_individual",
+      "w_industrial",
+      "w_influential",
+      "w_internal",
+      "w_legal",
+      "w_local",
+      "w_logical",
+      "w_memorial",
+      "w_mental",
+      "w_moral",
+      "w_mortal",
+      "w_musical",
+      "w_mythical",
+      "w_national",
+      "w_natural",
+      "w_neutral",
+      "w_normal",
+      "w_official",
+      "w_parental",
+      "w_pastoral",
+      "w_personal",
+      "w_political",
+      "w_potential",
+      "w_racial",
+      "w_rational",
+      "w_regional",
+      "w_intellectual",
+      "w_seasonal",
+      "w_spiritual",
+      "w_technological",
+      "w_territorial",
+      "w_theatrical",
+      "w_tidal",
+      "w_traditional",
+      "w_tribal",
+      "w_typical",
+      "w_universal",
+      "w_verbal",
+      "w_virtual",
+      "w_vocal",
+      "w_visual"
+    ]
+  },
+  {
+    "id": "r_firm",
+    "morpheme": "firm",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "make firm; support",
+    "meaningZh": "make firm; support",
+    "cognateWordIds": [
+      "w_affirm",
+      "w_affirmation",
+      "w_confirm"
+    ]
+  },
+  {
+    "id": "r_decadecdecideka",
+    "morpheme": "decadecdecideka",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "ten, tenth",
+    "meaningZh": "十、十倍",
+    "cognateWordIds": [
+      "w_decade",
+      "w_december"
+    ]
+  },
+  {
+    "id": "r_fil2",
+    "morpheme": "fil2",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "thread, line",
+    "meaningZh": "thread, line",
+    "cognateWordIds": [
+      "w_file"
+    ]
+  },
+  {
+    "id": "p_en1em1",
+    "morpheme": "en-1em-1",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "to put into; cause to be or have",
+    "meaningZh": "to put into; cause to be or have",
+    "cognateWordIds": [
+      "w_embarrass",
+      "w_embrace",
+      "w_employ",
+      "w_enable",
+      "w_enclose",
+      "w_encode",
+      "w_encounter",
+      "w_endure",
+      "w_enforce",
+      "w_engage",
+      "w_enjoy",
+      "w_enlarge",
+      "w_enrich",
+      "w_enroll",
+      "w_ensure",
+      "w_entitle"
+    ]
+  },
+  {
+    "id": "s_ism1",
+    "morpheme": "-ism1",
+    "type": "suffix",
+    "origin": "Greek",
+    "meaning": "act, process, state, practice, or instance of",
+    "meaningZh": "act, process, state, practice, or instance of",
+    "cognateWordIds": [
+      "w_criticism",
+      "w_mechanism",
+      "w_metabolism"
+    ]
+  },
+  {
+    "id": "r_ethno",
+    "morpheme": "ethno",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "race, culture, people",
+    "meaningZh": "race, culture, people",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_physphysio",
+    "morpheme": "physphysio",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "nature, physical",
+    "meaningZh": "nature, physical",
+    "cognateWordIds": [
+      "w_physical",
+      "w_physician",
+      "w_physicist",
+      "w_physics",
+      "w_physiological"
+    ]
+  },
+  {
+    "id": "r_popul",
+    "morpheme": "popul",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "the people",
+    "meaningZh": "the people",
+    "cognateWordIds": [
+      "w_popular",
+      "w_popularity",
+      "w_populate",
+      "w_population"
+    ]
+  },
+  {
+    "id": "r_vinvinivint",
+    "morpheme": "vinvinivint",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "wine",
+    "meaningZh": "wine",
+    "cognateWordIds": []
+  },
+  {
+    "id": "p_circucircum",
+    "morpheme": "circu-circum-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "around",
+    "meaningZh": "around",
+    "cognateWordIds": [
+      "w_circular",
+      "w_circulate",
+      "w_circulation",
+      "w_circumference",
+      "w_circumspect",
+      "w_circumstance",
+      "w_circumvent",
+      "w_circus"
+    ]
+  },
+  {
+    "id": "r_spirspiro",
+    "morpheme": "spirspiro",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "breathe",
+    "meaningZh": "breathe",
+    "cognateWordIds": [
+      "w_aspiration",
+      "w_aspire",
+      "w_conspiracy",
+      "w_conspire",
+      "w_inspiration",
+      "w_inspire",
+      "w_respiration",
+      "w_spirit",
+      "w_spiritual"
+    ]
+  },
+  {
+    "id": "r_equequi",
+    "morpheme": "equequi",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "equal",
+    "meaningZh": "equal",
+    "cognateWordIds": [
+      "w_adequate",
+      "w_equal",
+      "w_equality",
+      "w_equation",
+      "w_equator",
+      "w_equilibrium",
+      "w_equity",
+      "w_equivalent",
+      "w_inadequate",
+      "w_inequality"
+    ]
+  },
+  {
+    "id": "r_flic",
+    "morpheme": "flic",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "strike",
+    "meaningZh": "strike",
+    "cognateWordIds": [
+      "w_conflict"
+    ]
+  },
+  {
+    "id": "r_fugfuge",
+    "morpheme": "fug-fuge",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "flee",
+    "meaningZh": "flee",
+    "cognateWordIds": []
+  },
+  {
+    "id": "p_multi",
+    "morpheme": "multi-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "many",
+    "meaningZh": "many",
+    "cognateWordIds": [
+      "w_multiple",
+      "w_multiply"
+    ]
+  },
+  {
+    "id": "r_folifoil",
+    "morpheme": "folifoil",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "leaf, page",
+    "meaningZh": "leaf, page",
+    "cognateWordIds": []
+  },
+  {
+    "id": "p_ap",
+    "morpheme": "ap-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "to, toward",
+    "meaningZh": "to, toward",
+    "cognateWordIds": [
+      "w_appendix",
+      "w_applicant",
+      "w_appoint",
+      "w_approve"
+    ]
+  },
+  {
+    "id": "p_sys",
+    "morpheme": "sys-",
+    "type": "prefix",
+    "origin": "Greek",
+    "meaning": "with, together with",
+    "meaningZh": "共同、一起、同時",
+    "cognateWordIds": []
+  },
+  {
+    "id": "p_col",
+    "morpheme": "col-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "with, together",
+    "meaningZh": "with, together",
+    "cognateWordIds": [
+      "w_collapse",
+      "w_colleague",
+      "w_collect",
+      "w_collide"
+    ]
+  },
+  {
+    "id": "s_hood",
+    "morpheme": "-hood",
+    "type": "suffix",
+    "origin": "Old English",
+    "meaning": "1. state, condition; 2.the whole group of",
+    "meaningZh": "1. state, condition; 2.the whole group of",
+    "cognateWordIds": [
+      "w_adulthood",
+      "w_brotherhood",
+      "w_childhood",
+      "w_neighborhood"
+    ]
+  },
+  {
+    "id": "s_escent",
+    "morpheme": "-escent",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "becoming; beginning to",
+    "meaningZh": "becoming; beginning to",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_frater",
+    "morpheme": "frater",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "brother",
+    "meaningZh": "brother",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_cardicardio",
+    "morpheme": "cardicardio",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "heart",
+    "meaningZh": "heart",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_hemhemohemathematohemaemiaaemia",
+    "morpheme": "hemhemohemathematohema-emia-aemia",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "blood; blood condition",
+    "meaningZh": "blood; blood condition",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_hecthectohecat",
+    "morpheme": "hecthectohecat",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "hundred",
+    "meaningZh": "百、百分",
+    "cognateWordIds": [
+      "w_hectare"
+    ]
+  },
+  {
+    "id": "r_alloall",
+    "morpheme": "alloall",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "other, different",
+    "meaningZh": "other, different",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_rig2",
+    "morpheme": "rig2",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "stiff, rigid",
+    "meaningZh": "stiff, rigid",
+    "cognateWordIds": [
+      "w_rigid"
+    ]
+  },
+  {
+    "id": "r_gyrgyro",
+    "morpheme": "gyrgyro",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "circle",
+    "meaningZh": "circle",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_funct",
+    "morpheme": "funct",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "perform",
+    "meaningZh": "perform",
+    "cognateWordIds": [
+      "w_function",
+      "w_functional",
+      "w_malfunction"
+    ]
+  },
+  {
+    "id": "r_celer",
+    "morpheme": "celer",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "swift",
+    "meaningZh": "swift",
+    "cognateWordIds": [
+      "w_accelerate"
+    ]
+  },
+  {
+    "id": "s_atory1",
+    "morpheme": "-atory1",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "place associated with",
+    "meaningZh": "place associated with",
+    "cognateWordIds": [
+      "w_laboratory"
+    ]
+  },
+  {
+    "id": "r_pneumpneumopneumonpneumatpnea",
+    "morpheme": "pneumpneumopneumonpneumat-pnea",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "air, breath, wind, spirit",
+    "meaningZh": "air, breath, wind, spirit",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_patrpatripater",
+    "morpheme": "patrpatripater",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "father, fatherland",
+    "meaningZh": "father, fatherland",
+    "cognateWordIds": [
+      "w_patron",
+      "w_pattern"
+    ]
+  },
+  {
+    "id": "r_vest",
+    "morpheme": "vest",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "clothe; clothing",
+    "meaningZh": "clothe; clothing",
+    "cognateWordIds": [
+      "w_invest",
+      "w_investment",
+      "w_investor",
+      "w_vest"
+    ]
+  },
+  {
+    "id": "r_sol2soli",
+    "morpheme": "sol2soli",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "alone",
+    "meaningZh": "alone",
+    "cognateWordIds": [
+      "w_solitary",
+      "w_solo"
+    ]
+  },
+  {
+    "id": "r_auavi",
+    "morpheme": "auavi",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "bird",
+    "meaningZh": "bird",
+    "cognateWordIds": [
+      "w_aviation"
+    ]
+  },
+  {
+    "id": "p_extrextraexter",
+    "morpheme": "extr-extra-exter-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "on the outside, beyond",
+    "meaningZh": "on the outside, beyond",
+    "cognateWordIds": [
+      "w_external",
+      "w_extracurricular",
+      "w_extraordinary",
+      "w_extreme"
+    ]
+  },
+  {
+    "id": "p_autauto",
+    "morpheme": "autauto",
+    "type": "prefix",
+    "origin": "Greek",
+    "meaning": "self",
+    "meaningZh": "自己、自身、自動",
+    "cognateWordIds": [
+      "w_autograph",
+      "w_automatic",
+      "w_automobile",
+      "w_autonomous"
+    ]
+  },
+  {
+    "id": "r_herhes",
+    "morpheme": "herhes",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "stick",
+    "meaningZh": "stick",
+    "cognateWordIds": [
+      "w_adhere",
+      "w_cohesion",
+      "w_cohesive"
+    ]
+  },
+  {
+    "id": "p_meso",
+    "morpheme": "meso-",
+    "type": "prefix",
+    "origin": "Greek",
+    "meaning": "middle",
+    "meaningZh": "middle",
+    "cognateWordIds": [
+      "w_mesozoic"
+    ]
+  },
+  {
+    "id": "r_purg",
+    "morpheme": "purg",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "clean",
+    "meaningZh": "clean",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_nom1nominnomen",
+    "morpheme": "nom1nominnomen",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "name",
+    "meaningZh": "name",
+    "cognateWordIds": [
+      "w_nominate"
+    ]
+  },
+  {
+    "id": "r_biblbiblibiblio",
+    "morpheme": "biblbiblibiblio",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "book",
+    "meaningZh": "book",
+    "cognateWordIds": [
+      "w_bible"
+    ]
+  },
+  {
+    "id": "p_su",
+    "morpheme": "su-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "under, below",
+    "meaningZh": "在...下方、次級、隱蔽",
+    "cognateWordIds": [
+      "w_suspect"
+    ]
+  },
+  {
+    "id": "r_kilo",
+    "morpheme": "kilo",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "thousand",
+    "meaningZh": "千、千倍",
+    "cognateWordIds": [
+      "w_kilo",
+      "w_kilogram",
+      "w_kilometer"
+    ]
+  },
+  {
+    "id": "r_par2",
+    "morpheme": "par2",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "to bear, give birth to",
+    "meaningZh": "to bear, give birth to",
+    "cognateWordIds": [
+      "w_parent"
+    ]
+  },
+  {
+    "id": "s_ac",
+    "morpheme": "-ac",
+    "type": "suffix",
+    "origin": "Greek",
+    "meaning": "in adjectives: of or pertaining to; resembling; in nouns: someone afflicted with;",
+    "meaningZh": "in adjectives: of or pertaining to; resembling; in nouns: someone afflicted with;",
+    "cognateWordIds": []
+  },
+  {
+    "id": "p_dif",
+    "morpheme": "dif-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "not, apart, reverse, negate",
+    "meaningZh": "not, apart, reverse, negate",
+    "cognateWordIds": [
+      "w_differ",
+      "w_different",
+      "w_diffuse"
+    ]
+  },
+  {
+    "id": "r_narr",
+    "morpheme": "narr",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "tell, give an account of",
+    "meaningZh": "tell, give an account of",
+    "cognateWordIds": [
+      "w_narrative"
+    ]
+  },
+  {
+    "id": "r_ordordin",
+    "morpheme": "ordordin",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "row, rank, order",
+    "meaningZh": "row, rank, order",
+    "cognateWordIds": [
+      "w_coordinate",
+      "w_disorder",
+      "w_extraordinary",
+      "w_order",
+      "w_ordinary"
+    ]
+  },
+  {
+    "id": "r_aquaqua",
+    "morpheme": "aquaqua",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "water",
+    "meaningZh": "水、液體、水域",
+    "cognateWordIds": [
+      "w_aquifer"
+    ]
+  },
+  {
+    "id": "s_ee",
+    "morpheme": "-ee",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "person who undergoes or receives",
+    "meaningZh": "person who undergoes or receives",
+    "cognateWordIds": [
+      "w_committee",
+      "w_employee"
+    ]
+  },
+  {
+    "id": "p_micro",
+    "morpheme": "micro-",
+    "type": "prefix",
+    "origin": "Greek",
+    "meaning": "small",
+    "meaningZh": "微小、細微",
+    "cognateWordIds": [
+      "w_microorganism",
+      "w_microscope",
+      "w_microscopic",
+      "w_microwave"
+    ]
+  },
+  {
+    "id": "p_diadi1",
+    "morpheme": "dia-di-1",
+    "type": "prefix",
+    "origin": "Greek",
+    "meaning": "across, apart, through, throughout",
+    "meaningZh": "across, apart, through, throughout",
+    "cognateWordIds": [
+      "w_diagram",
+      "w_dialect",
+      "w_dialogue",
+      "w_diameter"
+    ]
+  },
+  {
+    "id": "r_ministminst",
+    "morpheme": "ministminst",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "serve, assist",
+    "meaningZh": "serve, assist",
+    "cognateWordIds": [
+      "w_administration",
+      "w_administrative",
+      "w_minister",
+      "w_ministry"
+    ]
+  },
+  {
+    "id": "r_mania",
+    "morpheme": "mania",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "excessive desire",
+    "meaningZh": "excessive desire",
+    "cognateWordIds": []
+  },
+  {
+    "id": "s_dom",
+    "morpheme": "-dom",
+    "type": "suffix",
+    "origin": "Old English",
+    "meaning": "domain of; state of being",
+    "meaningZh": "domain of; state of being",
+    "cognateWordIds": [
+      "w_boredom",
+      "w_freedom",
+      "w_kingdom",
+      "w_wisdom"
+    ]
+  },
+  {
+    "id": "r_rhodrhodo",
+    "morpheme": "rhodrhodo",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "red",
+    "meaningZh": "red",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_palp",
+    "morpheme": "palp",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "touch",
+    "meaningZh": "touch",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_onym",
+    "morpheme": "onym",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "name, word",
+    "meaningZh": "name, word",
+    "cognateWordIds": [
+      "w_anonymous",
+      "w_antonym",
+      "w_pseudonym",
+      "w_synonym"
+    ]
+  },
+  {
+    "id": "r_phytphytophyte",
+    "morpheme": "phytphyto-phyte",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "plant; plant growth",
+    "meaningZh": "plant; plant growth",
+    "cognateWordIds": []
+  },
+  {
+    "id": "s_factionificationefaction",
+    "morpheme": "-faction-ification-efaction",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "act or process of making or becoming",
+    "meaningZh": "act or process of making or becoming",
+    "cognateWordIds": [
+      "w_amplification",
+      "w_classification",
+      "w_identification",
+      "w_modification",
+      "w_qualification",
+      "w_satisfaction"
+    ]
+  },
+  {
+    "id": "p_in2",
+    "morpheme": "in-2",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "not, without",
+    "meaningZh": "無、沒有、缺乏",
+    "cognateWordIds": [
+      "w_inaccurate",
+      "w_inappropriate",
+      "w_incomplete",
+      "w_incorrect",
+      "w_incredible",
+      "w_indefinite",
+      "w_independence",
+      "w_independent",
+      "w_indignant",
+      "w_indirect",
+      "w_individual",
+      "w_inefficient",
+      "w_inequality",
+      "w_inevitable",
+      "w_inexpensive",
+      "w_infinite",
+      "w_informal",
+      "w_injure",
+      "w_injury",
+      "w_intangible",
+      "w_invisible",
+      "w_irregular"
+    ]
+  },
+  {
+    "id": "r_fin",
+    "morpheme": "fin",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "end, limit",
+    "meaningZh": "end, limit",
+    "cognateWordIds": [
+      "w_confine",
+      "w_define",
+      "w_definite",
+      "w_final",
+      "w_finish",
+      "w_indefinite",
+      "w_infinite",
+      "w_infinitive"
+    ]
+  },
+  {
+    "id": "s_ileil",
+    "morpheme": "-ile-il",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "capable of being or undergoing; pertaining to",
+    "meaningZh": "capable of being or undergoing; pertaining to",
+    "cognateWordIds": [
+      "w_civil",
+      "w_fragile",
+      "w_mobile"
+    ]
+  },
+  {
+    "id": "r_algalgoalgia",
+    "morpheme": "algalgo-algia",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "pain",
+    "meaningZh": "pain",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_peri",
+    "morpheme": "peri",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "around, surrounding",
+    "meaningZh": "around, surrounding",
+    "cognateWordIds": [
+      "w_period",
+      "w_periodic",
+      "w_peripheral"
+    ]
+  },
+  {
+    "id": "r_phorpherphore",
+    "morpheme": "phorpher-phore",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "carry, bear",
+    "meaningZh": "攜帶、運載、承受",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_quinquintquinqu",
+    "morpheme": "quinquintquinqu",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "five, fifth",
+    "meaningZh": "five, fifth",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_astrasterastro",
+    "morpheme": "astrasterastro",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "star",
+    "meaningZh": "star",
+    "cognateWordIds": [
+      "w_asteroid",
+      "w_astronaut",
+      "w_astronomy",
+      "w_disaster"
+    ]
+  },
+  {
+    "id": "r_magnmagnamagnimaj",
+    "morpheme": "magnmagnamagnimaj",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "great, large",
+    "meaningZh": "great, large",
+    "cognateWordIds": [
+      "w_magnificent",
+      "w_magnify",
+      "w_magnitude",
+      "w_major",
+      "w_majority"
+    ]
+  },
+  {
+    "id": "r_rot",
+    "morpheme": "rot",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "turn",
+    "meaningZh": "turn",
+    "cognateWordIds": [
+      "w_rotate"
+    ]
+  },
+  {
+    "id": "r_lingu",
+    "morpheme": "lingu",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "language, tongue",
+    "meaningZh": "language, tongue",
+    "cognateWordIds": [
+      "w_linguistic"
+    ]
+  },
+  {
+    "id": "s_ose2",
+    "morpheme": "-ose2",
+    "type": "suffix",
+    "origin": "Greek",
+    "meaning": "carbohydrate, esp. sugar",
+    "meaningZh": "carbohydrate, esp. sugar",
+    "cognateWordIds": []
+  },
+  {
+    "id": "p_ex",
+    "morpheme": "ex-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "out, out of, away from",
+    "meaningZh": "out, out of, away from",
+    "cognateWordIds": [
+      "w_exceed",
+      "w_excellent",
+      "w_exclude",
+      "w_exhaust",
+      "w_exit",
+      "w_expedition",
+      "w_expensive",
+      "w_export",
+      "w_extract"
+    ]
+  },
+  {
+    "id": "r_numer",
+    "morpheme": "numer",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "number",
+    "meaningZh": "number",
+    "cognateWordIds": [
+      "w_numerous"
+    ]
+  },
+  {
+    "id": "r_sol1",
+    "morpheme": "sol1",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "sun",
+    "meaningZh": "sun",
+    "cognateWordIds": [
+      "w_solar"
+    ]
+  },
+  {
+    "id": "r_giga",
+    "morpheme": "giga",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "giant; billion",
+    "meaningZh": "giant; billion",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_dividdivis",
+    "morpheme": "dividdivis",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "divide",
+    "meaningZh": "divide",
+    "cognateWordIds": [
+      "w_divide",
+      "w_dividend",
+      "w_division",
+      "w_individual"
+    ]
+  },
+  {
+    "id": "p_al",
+    "morpheme": "al-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "to, toward",
+    "meaningZh": "to, toward",
+    "cognateWordIds": [
+      "w_allocate"
+    ]
+  },
+  {
+    "id": "s_erorar2",
+    "morpheme": "-er-or-ar2",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "a person or thing that does",
+    "meaningZh": "a person or thing that does",
+    "cognateWordIds": [
+      "w_actor",
+      "w_beggar",
+      "w_burglar",
+      "w_carrier",
+      "w_cleaner",
+      "w_computer",
+      "w_consumer",
+      "w_container",
+      "w_director",
+      "w_doctor",
+      "w_driver",
+      "w_employer",
+      "w_farmer",
+      "w_laborer",
+      "w_liar",
+      "w_manager",
+      "w_motor",
+      "w_player",
+      "w_potter",
+      "w_razor",
+      "w_refrigerator",
+      "w_reporter",
+      "w_runner",
+      "w_sailor",
+      "w_sculptor",
+      "w_singer",
+      "w_speaker",
+      "w_survivor",
+      "w_teacher",
+      "w_user",
+      "w_worker",
+      "w_writer"
+    ]
+  },
+  {
+    "id": "r_terrterra",
+    "morpheme": "terrterra",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "earth, land",
+    "meaningZh": "地球、陸地、土壤",
+    "cognateWordIds": [
+      "w_terrace",
+      "w_terrain",
+      "w_terrestrial",
+      "w_territory"
+    ]
+  },
+  {
+    "id": "s_y2",
+    "morpheme": "-y2",
+    "type": "suffix",
+    "origin": "Latin and Greek",
+    "meaning": "state, quality, act, or practice of",
+    "meaningZh": "state, quality, act, or practice of",
+    "cognateWordIds": [
+      "w_assembly",
+      "w_energy",
+      "w_injury",
+      "w_inquiry"
+    ]
+  },
+  {
+    "id": "s_ic",
+    "morpheme": "-ic",
+    "type": "suffix",
+    "origin": "Latin and Greek",
+    "meaning": "like, pertaining to",
+    "meaningZh": "like, pertaining to",
+    "cognateWordIds": [
+      "w_acidic",
+      "w_antibiotic",
+      "w_critic",
+      "w_democratic",
+      "w_domestic",
+      "w_dramatic",
+      "w_eccentric",
+      "w_economic",
+      "w_fantastic",
+      "w_geometric",
+      "w_magic",
+      "w_microscopic",
+      "w_music",
+      "w_pathetic",
+      "w_periodic",
+      "w_physical",
+      "w_physics"
+    ]
+  },
+  {
+    "id": "s_otic",
+    "morpheme": "-otic",
+    "type": "suffix",
+    "origin": "Greek",
+    "meaning": "having or related to (a condition or state)",
+    "meaningZh": "having or related to (a condition or state)",
+    "cognateWordIds": [
+      "w_antibiotic",
+      "w_symbiotic"
+    ]
+  },
+  {
+    "id": "r_noxnoctnoctu",
+    "morpheme": "noxnoctnoctu",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "night",
+    "meaningZh": "night",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_somn",
+    "morpheme": "somn",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "sleep",
+    "meaningZh": "sleep",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_valvaluvalid",
+    "morpheme": "valvaluvalid",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "strength; worth",
+    "meaningZh": "strength; worth",
+    "cognateWordIds": [
+      "w_equivalent",
+      "w_evaluate",
+      "w_valid",
+      "w_valuable",
+      "w_value"
+    ]
+  },
+  {
+    "id": "r_ali",
+    "morpheme": "ali",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "other, foreign",
+    "meaningZh": "other, foreign",
+    "cognateWordIds": [
+      "w_alien"
+    ]
+  },
+  {
+    "id": "r_mim",
+    "morpheme": "mim",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "copy, imitate",
+    "meaningZh": "copy, imitate",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_plac",
+    "morpheme": "plac",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "calm; please",
+    "meaningZh": "calm; please",
+    "cognateWordIds": [
+      "w_complacency"
+    ]
+  },
+  {
+    "id": "r_arbor",
+    "morpheme": "arbor",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "tree",
+    "meaningZh": "tree",
+    "cognateWordIds": []
+  },
+  {
+    "id": "p_apoaph",
+    "morpheme": "apo-aph-",
+    "type": "prefix",
+    "origin": "Greek",
+    "meaning": "from, away from, off, off from",
+    "meaningZh": "from, away from, off, off from",
+    "cognateWordIds": [
+      "w_apology"
+    ]
+  },
+  {
+    "id": "r_sequisecutseque",
+    "morpheme": "sequisecutseque",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "to follow",
+    "meaningZh": "to follow",
+    "cognateWordIds": [
+      "w_consequence",
+      "w_consequent",
+      "w_prosecute",
+      "w_sequence"
+    ]
+  },
+  {
+    "id": "r_sept",
+    "morpheme": "sept",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "seven",
+    "meaningZh": "seven",
+    "cognateWordIds": [
+      "w_september"
+    ]
+  },
+  {
+    "id": "r_medi",
+    "morpheme": "medi",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "middle",
+    "meaningZh": "middle",
+    "cognateWordIds": [
+      "w_immediate",
+      "w_intermediate",
+      "w_medieval",
+      "w_mediterranean",
+      "w_medium"
+    ]
+  },
+  {
+    "id": "s_osity",
+    "morpheme": "-osity",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "state or condition of",
+    "meaningZh": "state or condition of",
+    "cognateWordIds": [
+      "w_curiosity",
+      "w_generosity",
+      "w_porosity"
+    ]
+  },
+  {
+    "id": "r_ego",
+    "morpheme": "ego",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "I, self",
+    "meaningZh": "自己、自身、自動",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_aeraero",
+    "morpheme": "aeraero",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "air, gas",
+    "meaningZh": "空氣、大氣、呼吸",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_pendpens",
+    "morpheme": "pendpens",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "hang; weigh; spend",
+    "meaningZh": "hang; weigh; spend",
+    "cognateWordIds": [
+      "w_appendix",
+      "w_depend",
+      "w_dependable",
+      "w_dependent",
+      "w_independence",
+      "w_independent",
+      "w_suspend",
+      "w_suspense",
+      "w_expensive"
+    ]
+  },
+  {
+    "id": "r_judjurjust",
+    "morpheme": "judjurjust",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "justice, law; swear",
+    "meaningZh": "justice, law; swear",
+    "cognateWordIds": [
+      "w_injure",
+      "w_injury",
+      "w_judge",
+      "w_judgment",
+      "w_judicious",
+      "w_jury",
+      "w_just",
+      "w_justice",
+      "w_justify"
+    ]
+  },
+  {
+    "id": "r_neurneuro",
+    "morpheme": "neurneuro",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "nerve",
+    "meaningZh": "nerve",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_rap",
+    "morpheme": "rap",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "seize, carry off by force",
+    "meaningZh": "seize, carry off by force",
+    "cognateWordIds": []
+  },
+  {
+    "id": "s_oryatory2",
+    "morpheme": "-ory-atory2",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "serving to, pertaining to",
+    "meaningZh": "serving to, pertaining to",
+    "cognateWordIds": [
+      "w_advisory",
+      "w_compulsory",
+      "w_satisfactory"
+    ]
+  },
+  {
+    "id": "r_clincline",
+    "morpheme": "clincline",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "lean, slope",
+    "meaningZh": "lean, slope",
+    "cognateWordIds": [
+      "w_decline",
+      "w_incline"
+    ]
+  },
+  {
+    "id": "r_millmilliillion",
+    "morpheme": "millmilli-illion",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "thousand",
+    "meaningZh": "千、千倍",
+    "cognateWordIds": [
+      "w_billion",
+      "w_millennium",
+      "w_millimeter",
+      "w_million",
+      "w_trillion"
+    ]
+  },
+  {
+    "id": "r_thetheo",
+    "morpheme": "thetheo",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "god",
+    "meaningZh": "god",
+    "cognateWordIds": []
+  },
+  {
+    "id": "s_ite3",
+    "morpheme": "-ite3",
+    "type": "suffix",
+    "origin": "Latin and Greek",
+    "meaning": "mineral or fossil",
+    "meaningZh": "mineral or fossil",
+    "cognateWordIds": [
+      "w_calcite",
+      "w_granite"
+    ]
+  },
+  {
+    "id": "p_ambi",
+    "morpheme": "ambi-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "both, on both sides, around",
+    "meaningZh": "both, on both sides, around",
+    "cognateWordIds": [
+      "w_ambiguous"
+    ]
+  },
+  {
+    "id": "s_ousious",
+    "morpheme": "-ous-ious",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "full of, characterized by",
+    "meaningZh": "full of, characterized by",
+    "cognateWordIds": [
+      "w_ambiguous",
+      "w_curious",
+      "w_delicious",
+      "w_endogenous",
+      "w_enormous",
+      "w_generous",
+      "w_glorious",
+      "w_gracious",
+      "w_homogeneous",
+      "w_judicious",
+      "w_laborious",
+      "w_poisonous",
+      "w_porous",
+      "w_precious",
+      "w_unanimous"
+    ]
+  },
+  {
+    "id": "r_blastblasto",
+    "morpheme": "blastblasto",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "bud, generative cell",
+    "meaningZh": "bud, generative cell",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_metrmetermetry",
+    "morpheme": "metr-meter-metry",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "measure",
+    "meaningZh": "measure",
+    "cognateWordIds": [
+      "w_centimeter",
+      "w_diameter",
+      "w_geometry",
+      "w_meter",
+      "w_telemetry"
+    ]
+  },
+  {
+    "id": "r_hosphost1",
+    "morpheme": "hosphost1",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "host, guest",
+    "meaningZh": "host, guest",
+    "cognateWordIds": [
+      "w_hospitable",
+      "w_hospital",
+      "w_host",
+      "w_hostess"
+    ]
+  },
+  {
+    "id": "p_sus",
+    "morpheme": "sus-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "under,  below",
+    "meaningZh": "under,  below",
+    "cognateWordIds": [
+      "w_susceptible",
+      "w_suspend",
+      "w_sustain"
+    ]
+  },
+  {
+    "id": "p_amphiampho",
+    "morpheme": "amphi-ampho-",
+    "type": "prefix",
+    "origin": "Greek",
+    "meaning": "both, on both sides, around",
+    "meaningZh": "both, on both sides, around",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_cyancyano",
+    "morpheme": "cyancyano",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "blue",
+    "meaningZh": "blue",
+    "cognateWordIds": []
+  },
+  {
+    "id": "p_suf",
+    "morpheme": "suf-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "under, below",
+    "meaningZh": "在...下方、次級、隱蔽",
+    "cognateWordIds": [
+      "w_suffer"
+    ]
+  },
+  {
+    "id": "r_primprinc",
+    "morpheme": "primprinc",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "first",
+    "meaningZh": "first",
+    "cognateWordIds": [
+      "w_primary",
+      "w_principal",
+      "w_principle"
+    ]
+  },
+  {
+    "id": "p_a2",
+    "morpheme": "a-2",
+    "type": "prefix",
+    "origin": "Old English",
+    "meaning": "on",
+    "meaningZh": "on",
+    "cognateWordIds": [
+      "w_aboard"
+    ]
+  },
+  {
+    "id": "r_ferlat2late",
+    "morpheme": "ferlat2-late",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "carry, bring",
+    "meaningZh": "carry, bring",
+    "cognateWordIds": [
+      "w_aquifer",
+      "w_confer",
+      "w_conference",
+      "w_correlate",
+      "w_differ",
+      "w_different",
+      "w_ferry",
+      "w_infer",
+      "w_offer",
+      "w_prefer",
+      "w_preference",
+      "w_refer",
+      "w_relate",
+      "w_relation",
+      "w_relative",
+      "w_suffer",
+      "w_transfer",
+      "w_translate",
+      "w_translation"
+    ]
+  },
+  {
+    "id": "r_ramrami",
+    "morpheme": "ramrami",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "branch",
+    "meaningZh": "branch",
+    "cognateWordIds": []
+  },
+  {
+    "id": "s_ar1",
+    "morpheme": "-ar1",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "of, pertaining to, or resembling",
+    "meaningZh": "of, pertaining to, or resembling",
+    "cognateWordIds": [
+      "w_circular",
+      "w_lunar",
+      "w_muscular",
+      "w_particular",
+      "w_popular",
+      "w_regular",
+      "w_similar",
+      "w_solar",
+      "w_spectacular"
+    ]
+  },
+  {
+    "id": "p_ob",
+    "morpheme": "ob-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "towards; against; away",
+    "meaningZh": "towards; against; away",
+    "cognateWordIds": [
+      "w_object"
+    ]
+  },
+  {
+    "id": "r_corpcorpocorporcorpus",
+    "morpheme": "corpcorpocorporcorpus",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "body",
+    "meaningZh": "body",
+    "cognateWordIds": [
+      "w_corporate",
+      "w_corporation",
+      "w_corpse",
+      "w_incorporate"
+    ]
+  },
+  {
+    "id": "r_fusfound2",
+    "morpheme": "fusfound2",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "pour, melt",
+    "meaningZh": "pour, melt",
+    "cognateWordIds": [
+      "w_confuse",
+      "w_confusion",
+      "w_diffuse"
+    ]
+  },
+  {
+    "id": "s_en1",
+    "morpheme": "-en1",
+    "type": "suffix",
+    "origin": "Old English",
+    "meaning": "to cause to be or become or have",
+    "meaningZh": "to cause to be or become or have",
+    "cognateWordIds": [
+      "w_brighten",
+      "w_dampen",
+      "w_darken",
+      "w_deepen",
+      "w_frighten",
+      "w_harden",
+      "w_hasten",
+      "w_lessen",
+      "w_lighten",
+      "w_ripen",
+      "w_sharpen",
+      "w_shorten",
+      "w_soften",
+      "w_strengthen",
+      "w_tighten",
+      "w_weaken"
+    ]
+  },
+  {
+    "id": "r_ped2pedo",
+    "morpheme": "ped2pedo",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "child",
+    "meaningZh": "child",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_phyllphyllo",
+    "morpheme": "phyllphyllo",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "leaf",
+    "meaningZh": "leaf",
+    "cognateWordIds": [
+      "w_chlorophyll"
+    ]
+  },
+  {
+    "id": "r_ergergourg",
+    "morpheme": "ergergourg",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "work",
+    "meaningZh": "work",
+    "cognateWordIds": [
+      "w_energy",
+      "w_metallurgy"
+    ]
+  },
+  {
+    "id": "r_tri",
+    "morpheme": "tri",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "three",
+    "meaningZh": "三、三重",
+    "cognateWordIds": [
+      "w_triangle",
+      "w_trillion"
+    ]
+  },
+  {
+    "id": "r_litlitera",
+    "morpheme": "litlitera",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "letter, reading",
+    "meaningZh": "letter, reading",
+    "cognateWordIds": [
+      "w_literacy",
+      "w_literary",
+      "w_literature"
+    ]
+  },
+  {
+    "id": "r_tacttangtingtig",
+    "morpheme": "tacttangtingtig",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "touch",
+    "meaningZh": "touch",
+    "cognateWordIds": [
+      "w_contact",
+      "w_intact",
+      "w_intangible",
+      "w_tangible"
+    ]
+  },
+  {
+    "id": "r_palepaleo",
+    "morpheme": "palepaleo",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "ancient",
+    "meaningZh": "ancient",
+    "cognateWordIds": [
+      "w_paleolithic"
+    ]
+  },
+  {
+    "id": "r_ment",
+    "morpheme": "ment",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "mind",
+    "meaningZh": "mind",
+    "cognateWordIds": [
+      "w_mental",
+      "w_mention"
+    ]
+  },
+  {
+    "id": "r_hypnhypno",
+    "morpheme": "hypnhypno",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "sleep",
+    "meaningZh": "sleep",
+    "cognateWordIds": []
+  },
+  {
+    "id": "s_ite2",
+    "morpheme": "-ite2",
+    "type": "suffix",
+    "origin": "Greek",
+    "meaning": "person or thing that comes from, or is a member or follower of",
+    "meaningZh": "person or thing that comes from, or is a member or follower of",
+    "cognateWordIds": []
+  },
+  {
+    "id": "p_suc",
+    "morpheme": "suc-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "under,  below",
+    "meaningZh": "under,  below",
+    "cognateWordIds": [
+      "w_succeed",
+      "w_success"
+    ]
+  },
+  {
+    "id": "r_radi",
+    "morpheme": "radi",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "ray, spoke",
+    "meaningZh": "ray, spoke",
+    "cognateWordIds": [
+      "w_radioactive",
+      "w_radium",
+      "w_ray"
+    ]
+  },
+  {
+    "id": "s_itis",
+    "morpheme": "-itis",
+    "type": "suffix",
+    "origin": "Greek",
+    "meaning": "inflammation",
+    "meaningZh": "inflammation",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_gon",
+    "morpheme": "gon",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "angle",
+    "meaningZh": "angle",
+    "cognateWordIds": [
+      "w_polygon"
+    ]
+  },
+  {
+    "id": "r_trudtrus",
+    "morpheme": "trudtrus",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "push",
+    "meaningZh": "push",
+    "cognateWordIds": []
+  },
+  {
+    "id": "p_re",
+    "morpheme": "re-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "again; back or back again",
+    "meaningZh": "again; back or back again",
+    "cognateWordIds": [
+      "w_react",
+      "w_rebuild",
+      "w_recall",
+      "w_reconstruct",
+      "w_record",
+      "w_recover",
+      "w_reflect",
+      "w_reflection",
+      "w_reheat",
+      "w_remove",
+      "w_renew",
+      "w_renewal",
+      "w_report",
+      "w_reporter",
+      "w_reservation",
+      "w_resign",
+      "w_respect",
+      "w_reverse",
+      "w_review",
+      "w_revise",
+      "w_revision",
+      "w_revive",
+      "w_revolve",
+      "w_revolution",
+      "w_rewrite"
+    ]
+  },
+  {
+    "id": "r_chromchromochromatochrome",
+    "morpheme": "chromchromochromato-chrome",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "color, pigment; the element chromium or the substance chromatin",
+    "meaningZh": "color, pigment; the element chromium or the substance chromatin",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_eco",
+    "morpheme": "eco",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "habitat, environment",
+    "meaningZh": "habitat, environment",
+    "cognateWordIds": [
+      "w_ecology",
+      "w_economic",
+      "w_economy",
+      "w_ecosystem"
+    ]
+  },
+  {
+    "id": "r_para",
+    "morpheme": "para",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "defense against",
+    "meaningZh": "defense against",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_gamgamogamy",
+    "morpheme": "gamgamo-gamy",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "marriage",
+    "meaningZh": "marriage",
+    "cognateWordIds": []
+  },
+  {
+    "id": "s_anceenceencyancy",
+    "morpheme": "-ance-ence-ency-ancy",
+    "type": "suffix",
+    "origin": "Latin",
+    "meaning": "state, quality, or act of",
+    "meaningZh": "state, quality, or act of",
+    "cognateWordIds": [
+      "w_absence",
+      "w_acceptance",
+      "w_agency",
+      "w_attendance",
+      "w_audience",
+      "w_complacency",
+      "w_conference",
+      "w_confidence",
+      "w_consequence",
+      "w_currency",
+      "w_deficiency",
+      "w_difference",
+      "w_disturbance",
+      "w_efficiency",
+      "w_emergency",
+      "w_fluency",
+      "w_frequency",
+      "w_importance",
+      "w_independence",
+      "w_occurrence",
+      "w_preference",
+      "w_presidency",
+      "w_science",
+      "w_tendency",
+      "w_vacancy"
+    ]
+  },
+  {
+    "id": "s_mancy",
+    "morpheme": "-mancy",
+    "type": "suffix",
+    "origin": "Greek",
+    "meaning": "divination",
+    "meaningZh": "divination",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_agragroagri",
+    "morpheme": "agragroagri",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "field, farm, crop",
+    "meaningZh": "field, farm, crop",
+    "cognateWordIds": [
+      "w_agrarian",
+      "w_agriculture"
+    ]
+  },
+  {
+    "id": "r_panpanto",
+    "morpheme": "panpanto",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "all",
+    "meaningZh": "all",
+    "cognateWordIds": []
+  },
+  {
+    "id": "p_ad",
+    "morpheme": "ad-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "to, toward",
+    "meaningZh": "to, toward",
+    "cognateWordIds": [
+      "w_adapt",
+      "w_add",
+      "w_addict",
+      "w_addiction",
+      "w_adequate",
+      "w_adhere",
+      "w_adjacent",
+      "w_adjective",
+      "w_adjust",
+      "w_administrative",
+      "w_admission",
+      "w_admit",
+      "w_adopt",
+      "w_advent",
+      "w_adverb",
+      "w_adversary",
+      "w_adverse",
+      "w_adversity",
+      "w_advertise",
+      "w_advocate"
+    ]
+  },
+  {
+    "id": "s_adade",
+    "morpheme": "-ad-ade",
+    "type": "suffix",
+    "origin": "Greek",
+    "meaning": "group (of a certain number indicated by the base)",
+    "meaningZh": "group (of a certain number indicated by the base)",
+    "cognateWordIds": [
+      "w_decade"
+    ]
+  },
+  {
+    "id": "r_cinekinekinetkinemat",
+    "morpheme": "cinekinekinetkinemat",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "motion",
+    "meaningZh": "motion",
+    "cognateWordIds": [
+      "w_cinema"
+    ]
+  },
+  {
+    "id": "p_infra",
+    "morpheme": "infra-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "above, over",
+    "meaningZh": "在...上方、超越、過度",
+    "cognateWordIds": [
+      "w_infrastructure"
+    ]
+  },
+  {
+    "id": "s_ism2",
+    "morpheme": "-ism2",
+    "type": "suffix",
+    "origin": "Greek",
+    "meaning": "doctrine, belief, theory",
+    "meaningZh": "doctrine, belief, theory",
+    "cognateWordIds": [
+      "w_communism",
+      "w_realism",
+      "w_socialism"
+    ]
+  },
+  {
+    "id": "r_altaltialto",
+    "morpheme": "altaltialto",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "high",
+    "meaningZh": "high",
+    "cognateWordIds": [
+      "w_altitude"
+    ]
+  },
+  {
+    "id": "r_mut",
+    "morpheme": "mut",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "change, interchange",
+    "meaningZh": "change, interchange",
+    "cognateWordIds": [
+      "w_mutation",
+      "w_mutual"
+    ]
+  },
+  {
+    "id": "p_fore",
+    "morpheme": "fore-",
+    "type": "prefix",
+    "origin": "Old English",
+    "meaning": "before, in time or position",
+    "meaningZh": "時間、時序",
+    "cognateWordIds": [
+      "w_forecast",
+      "w_forehead",
+      "w_foresee"
+    ]
+  },
+  {
+    "id": "r_volvvoluvolut",
+    "morpheme": "volvvoluvolut",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "roll, turn",
+    "meaningZh": "roll, turn",
+    "cognateWordIds": [
+      "w_evolution",
+      "w_evolve",
+      "w_involve",
+      "w_revolution",
+      "w_revolve",
+      "w_volume"
+    ]
+  },
+  {
+    "id": "p_dys",
+    "morpheme": "dys-",
+    "type": "prefix",
+    "origin": "Greek",
+    "meaning": "bad, difficult, abnormal",
+    "meaningZh": "bad, difficult, abnormal",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_sporsporospori",
+    "morpheme": "sporsporospori",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "sowing; seed",
+    "meaningZh": "sowing; seed",
+    "cognateWordIds": [
+      "w_spore"
+    ]
+  },
+  {
+    "id": "r_san",
+    "morpheme": "san",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "health",
+    "meaningZh": "health",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_melanmelano",
+    "morpheme": "melanmelano",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "black",
+    "meaningZh": "black",
+    "cognateWordIds": []
+  },
+  {
+    "id": "p_countercontra",
+    "morpheme": "counter-contra-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "against, in the opposite direction",
+    "meaningZh": "against, in the opposite direction",
+    "cognateWordIds": [
+      "w_contradict",
+      "w_contradiction",
+      "w_contrary"
+    ]
+  },
+  {
+    "id": "r_scenscend",
+    "morpheme": "scenscend",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "climb",
+    "meaningZh": "climb",
+    "cognateWordIds": [
+      "w_descend",
+      "w_descent"
+    ]
+  },
+  {
+    "id": "r_sphersphere",
+    "morpheme": "spher-sphere",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "ball",
+    "meaningZh": "ball",
+    "cognateWordIds": [
+      "w_atmosphere",
+      "w_hemisphere",
+      "w_lithosphere",
+      "w_magnetosphere"
+    ]
+  },
+  {
+    "id": "r_nounnunc",
+    "morpheme": "nounnunc",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "declare",
+    "meaningZh": "declare",
+    "cognateWordIds": [
+      "w_announce",
+      "w_announcement",
+      "w_pronounce",
+      "w_pronunciation"
+    ]
+  },
+  {
+    "id": "r_jectjetjac",
+    "morpheme": "jectjetjac",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "throw; lie",
+    "meaningZh": "throw; lie",
+    "cognateWordIds": [
+      "w_adjacent",
+      "w_adjective",
+      "w_injection",
+      "w_jet",
+      "w_object",
+      "w_objective",
+      "w_project",
+      "w_projection",
+      "w_reject",
+      "w_subject",
+      "w_subjective"
+    ]
+  },
+  {
+    "id": "p_omni",
+    "morpheme": "omni-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "all",
+    "meaningZh": "all",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_quadrquart",
+    "morpheme": "quadrquart",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "four, fourth",
+    "meaningZh": "四、四重",
+    "cognateWordIds": [
+      "w_quarter"
+    ]
+  },
+  {
+    "id": "p_post",
+    "morpheme": "post-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "after, behind",
+    "meaningZh": "在...之後、落後、追溯",
+    "cognateWordIds": [
+      "w_postgraduate",
+      "w_postpone"
+    ]
+  },
+  {
+    "id": "r_naut",
+    "morpheme": "naut",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "ship; sailor",
+    "meaningZh": "ship; sailor",
+    "cognateWordIds": [
+      "w_astronaut"
+    ]
+  },
+  {
+    "id": "r_sen",
+    "morpheme": "sen",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "old",
+    "meaningZh": "old",
+    "cognateWordIds": [
+      "w_senate",
+      "w_senior"
+    ]
+  },
+  {
+    "id": "r_dactyl",
+    "morpheme": "dactyl",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "finger",
+    "meaningZh": "finger",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_pluplur",
+    "morpheme": "pluplur",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "more",
+    "meaningZh": "more",
+    "cognateWordIds": [
+      "w_plus",
+      "w_surplus"
+    ]
+  },
+  {
+    "id": "r_vir",
+    "morpheme": "vir",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "man",
+    "meaningZh": "man",
+    "cognateWordIds": []
+  },
+  {
+    "id": "p_mis",
+    "morpheme": "mis-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "bad, badly, wrongly",
+    "meaningZh": "bad, badly, wrongly",
+    "cognateWordIds": [
+      "w_misguide",
+      "w_mislead",
+      "w_mistake",
+      "w_misunderstand"
+    ]
+  },
+  {
+    "id": "p_oc",
+    "morpheme": "oc-",
+    "type": "prefix",
+    "origin": "Latin",
+    "meaning": "towards; against; away",
+    "meaningZh": "towards; against; away",
+    "cognateWordIds": [
+      "w_occasion",
+      "w_occur"
+    ]
+  },
+  {
+    "id": "r_pentapent",
+    "morpheme": "pentapent",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "five",
+    "meaningZh": "five",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_cytcytocyte",
+    "morpheme": "cytcyto-cyte",
+    "type": "root",
+    "origin": "Greek",
+    "meaning": "cell",
+    "meaningZh": "cell",
+    "cognateWordIds": []
+  },
+  {
+    "id": "r_dom1domin",
+    "morpheme": "dom1domin",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "master",
+    "meaningZh": "master",
+    "cognateWordIds": [
+      "w_dominant",
+      "w_dominate",
+      "w_predominant",
+      "w_predominate"
+    ]
+  },
+  {
+    "id": "r_luclum",
+    "morpheme": "luclum",
+    "type": "root",
+    "origin": "Latin",
+    "meaning": "light; shine",
+    "meaningZh": "光線、照亮、明亮",
+    "cognateWordIds": [
+      "w_elucidate",
+      "w_illuminate",
+      "w_lucid",
+      "w_luminous"
+    ]
+  }
+]

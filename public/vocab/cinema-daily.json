@@ -1,0 +1,67 @@
+[
+  {
+    "id": "w_chunk_sarcasm",
+    "word": "sarcasm",
+    "ipa": "/ˈsɑː.kæz.əm/",
+    "pos": ["n."],
+    "meanings": ["the use of irony to mock or convey contempt"],
+    "meaningsZh": ["諷刺、挖苦、反諷"],
+    "rootIds": ["r_path"],
+    "levelTag": "B1 / 美劇常考",
+    "topic": "sitcom",
+    "mnemonic": "sarc-(肉/撕裂) + -asm(名詞) = 說話如同撕裂皮肉般尖酸刺人 -> 諷刺挖苦",
+    "examples": [{ "en": "Chandler is famous for his trademark witty sarcasm.", "zh": "錢德勒以其標誌性機智幽默的諷刺著稱。" }]
+  },
+  {
+    "id": "w_chunk_vulnerable",
+    "word": "vulnerable",
+    "ipa": "/ˈvʌl.nər.ə.bəl/",
+    "pos": ["adj."],
+    "meanings": ["susceptible to physical or emotional attack or harm"],
+    "meaningsZh": ["易受傷的、脆弱的"],
+    "rootIds": ["s_able"],
+    "levelTag": "B2 / 影視心理",
+    "topic": "animation",
+    "mnemonic": "vulner(傷口) + -able(能夠) = 容易被刺破產生傷口的 -> 脆弱的",
+    "examples": [{ "en": "Being truly vulnerable allows for authentic connection.", "zh": "展現真實的脆弱才能產生真摯的心理連結。" }]
+  },
+  {
+    "id": "w_chunk_procrastinate",
+    "word": "procrastinate",
+    "ipa": "/prəʊˈkræs.tɪ.neɪt/",
+    "pos": ["v."],
+    "meanings": ["delay or postpone action; put off doing something"],
+    "meaningsZh": ["拖延、拖延症發作"],
+    "rootIds": ["p_pro", "r_chron"],
+    "levelTag": "B2 / 日常高頻",
+    "topic": "sitcom",
+    "mnemonic": "pro-(向前推) + crastin(明天) + -ate(使動) = 一直把事情推到明天才做 -> 拖延",
+    "examples": [{ "en": "Do not procrastinate on your study goals until the weekend.", "zh": "別把學習目標一直拖延到週末才做。" }]
+  },
+  {
+    "id": "w_chunk_resilient",
+    "word": "resilient",
+    "ipa": "/rɪˈzɪl.jənt/",
+    "pos": ["adj."],
+    "meanings": ["able to withstand or recover quickly from difficult conditions"],
+    "meaningsZh": ["具韌性的、能迅速復原的"],
+    "rootIds": ["p_re"],
+    "levelTag": "B2 / 職場影視",
+    "topic": "business",
+    "mnemonic": "re-(向後反彈) + sili(跳躍) + -ent(形容詞) = 遭遇打擊後能迅速彈跳復原 -> 具韌性的",
+    "examples": [{ "en": "Spider-Man proved to be remarkably resilient after every defeat.", "zh": "蜘蛛人在每一次挫敗後都展現出驚人的心理韌性。" }]
+  },
+  {
+    "id": "w_chunk_spontaneous",
+    "word": "spontaneous",
+    "ipa": "/spɒnˈteɪ.ni.əs/",
+    "pos": ["adj."],
+    "meanings": ["performed or occurring as a result of a sudden inner impulse without premeditation"],
+    "meaningsZh": ["自發的、隨興自然的、一時興起的"],
+    "rootIds": ["r_path"],
+    "levelTag": "B2 / 生活口語",
+    "topic": "sitcom",
+    "mnemonic": "spont-(自願/內心動機) + -eous(形容詞) = 順從內心當下直覺而行 -> 隨興自然的",
+    "examples": [{ "en": "They took a spontaneous weekend road trip to the coast.", "zh": "他們一時興起，展開了一趟開往海邊的週末公路旅行。" }]
+  }
+]
