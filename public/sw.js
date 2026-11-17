@@ -1,25 +1,30 @@
-const CACHE_NAME = 'lexiclip-pwa-cache-v1'
-const STATIC_ASSETS = [
-  '/',
-  '/index.html',
-  '/manifest.json',
-  '/favicon.svg',
-  '/icons.svg',
-  '/vocab/master-lexicon.json',
-  '/vocab/master-roots.json',
-  '/videos/daily_commute.webm',
-  '/videos/daily_cafe.webm',
-  '/videos/daily_supermarket.webm',
-  '/videos/daily_perspective.webm',
-]
+const CACHE_NAME = 'lexiclip-pwa-cache-v2'
 
-// 安裝 Service Worker 並預快取核心靜態資產
+// 安裝 Service Worker 並動態根據 scope 預快取核心靜態資產
 self.addEventListener('install', (event) => {
+  const scope = self.registration.scope.endsWith('/')
+    ? self.registration.scope
+    : self.registration.scope + '/'
+
+  const assets = [
+    scope,
+    scope + 'index.html',
+    scope + 'manifest.json',
+    scope + 'favicon.svg',
+    scope + 'icons.svg',
+    scope + 'vocab/master-lexicon.json',
+    scope + 'vocab/master-roots.json',
+    scope + 'videos/daily_commute.webm',
+    scope + 'videos/daily_cafe.webm',
+    scope + 'videos/daily_supermarket.webm',
+    scope + 'videos/daily_perspective.webm',
+  ]
+
   event.waitUntil(
     caches
       .open(CACHE_NAME)
       .then((cache) => {
-        return cache.addAll(STATIC_ASSETS).catch((err) => {
+        return cache.addAll(assets).catch((err) => {
           console.warn('[SW] Pre-caching partial assets failed:', err)
         })
       })

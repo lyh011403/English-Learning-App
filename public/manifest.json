@@ -2,8 +2,8 @@
   "name": "LexiClip 英文詞根影視學習",
   "short_name": "LexiClip",
   "description": "結合構詞學詞根詞綴與好萊塢影視語境的原生雙軌記憶 APP",
-  "start_url": "/",
-  "id": "/",
+  "start_url": "./",
+  "id": "./",
   "display": "standalone",
   "orientation": "portrait-primary",
   "background_color": "#F6F5F0",
@@ -11,13 +11,13 @@
   "categories": ["education", "productivity"],
   "icons": [
     {
-      "src": "/favicon.svg",
+      "src": "favicon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"
     },
     {
-      "src": "/icons.svg",
+      "src": "icons.svg",
       "sizes": "192x192 512x512",
       "type": "image/svg+xml",
       "purpose": "any"

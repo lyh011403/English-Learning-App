@@ -20,6 +20,14 @@ export function ClipPlayer({ clips, targetWord, onClipStatusChange }: ClipPlayer
   const activeClips = clips.filter((c) => c.status !== 'unplayable')
   const currentClip = activeClips[currentIndex] || clips[0]
 
+  // 動態解析本機資產路徑 (適配 GitHub Pages 子路徑)
+  const resolveVideoUrl = (url?: string) => {
+    if (!url) return ''
+    if (url.startsWith('http://') || url.startsWith('https://')) return url
+    const base = import.meta.env.BASE_URL.replace(/\/$/, '')
+    return `${base}/${url.replace(/^\//, '')}`
+  }
+
   useEffect(() => {
     // 重置片段索引
     setCurrentIndex(0)
@@ -211,7 +219,7 @@ export function ClipPlayer({ clips, targetWord, onClipStatusChange }: ClipPlayer
         {useLocalVideo && currentClip.localVideoUrl ? (
           <video
             ref={videoRef}
-            src={currentClip.localVideoUrl}
+            src={resolveVideoUrl(currentClip.localVideoUrl)}
             controls
             playsInline
             loop
