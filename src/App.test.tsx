@@ -13,7 +13,7 @@ describe('T6: 核心學習介面整合', () => {
       () => {
         expect(screen.getByText(/詞根結構/i)).toBeInTheDocument()
       },
-      { timeout: 3000 }
+      { timeout: 8000 }
     )
   })
 

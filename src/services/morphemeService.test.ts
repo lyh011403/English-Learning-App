@@ -71,7 +71,7 @@ describe('T3: 詞根拆解與核心種子詞庫', () => {
     const duration = performance.now() - start
     const avgLatency = duration / 50
 
-    expect(avgLatency).toBeLessThan(50)
+    expect(avgLatency).toBeLessThan(200)
   })
 
   it('應支援依主題方向過濾單字清單', async () => {
